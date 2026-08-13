@@ -20,7 +20,6 @@ The application analyzes sales data, calculates key business metrics, creates vi
 * Dynamic answers based on selected region
 
 ## Example Questions
-
 The Analytics Copilot can answer questions such as:
 
 * Which category has the highest sales?
