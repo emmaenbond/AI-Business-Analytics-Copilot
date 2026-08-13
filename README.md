@@ -1,5 +1,5 @@
 # AI Business Analytics Copilot
-
+Live Demo: https://emmaenbond-ai-business-analytics-copilot-dashboard-yfqnzd.streamlit.app/
 An interactive business analytics dashboard built with Python, Pandas, Streamlit, and Matplotlib.
 
 The application analyzes sales data, calculates key business metrics, creates visualizations, filters results by region, and allows users to ask common business questions through an analytics copilot interface.
