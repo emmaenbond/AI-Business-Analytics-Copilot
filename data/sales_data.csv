@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Segment,Region,State,Category,Sub_Category,Product_Name,Quantity,Discount,Sales,Profit
+ORD-00777,2024-01-01,CUST-0076,Daniel Thompson,Corporate,East,New Jersey,Furniture,Desks,Standing Desk,4,0,1856.33,336.77
+ORD-00920,2024-01-01,CUST-0027,Benjamin Smith,Home Office,East,New York,Technology,Phones,Smartphone,3,0.1,1961.34,60.92
+ORD-00131,2024-01-02,CUST-0135,James Brown,Consumer,East,Massachusetts,Office Supplies,Binders,Premium Binder Pack,6,0,148.91,47.67
+ORD-00793,2024-01-03,CUST-0132,Liam Thompson,Home Office,Central,Ohio,Technology,Accessories,Wireless Mouse,7,0,276.66,79.21
+ORD-00832,2024-01-03,CUST-0236,Noah Johnson,Small Business,South,South Carolina,Office Supplies,Paper,Printer Paper Case,4,0.2,118.89,11.79
+ORD-00359,2024-01-05,CUST-0071,James Wilson,Small Business,Central,Michigan,Technology,Accessories,Wireless Keyboard,6,0,360.4,85.66
+ORD-00384,2024-01-05,CUST-0076,Isabella Davis,Small Business,West,Colorado,Furniture,Chairs,Ergonomic Office Chair,5,0,1608.63,187.43
+ORD-00549,2024-01-05,CUST-0242,Luna Wilson,Home Office,West,Arizona,Technology,Accessories,Wireless Keyboard,6,0.15,300.27,13.04
+ORD-00726,2024-01-05,CUST-0233,Lucas Moore,Consumer,West,California,Furniture,Chairs,Ergonomic Office Chair,1,0.2,255.29,-13.21
+ORD-00889,2024-01-06,CUST-0078,Olivia Anderson,Small Business,East,Massachusetts,Office Supplies,Writing,Pen Set,1,0,20.13,5.72
+ORD-00108,2024-01-08,CUST-0075,Isabella Davis,Consumer,West,Oregon,Technology,Laptops,Business Laptop,4,0,3859.81,805.83
+ORD-00677,2024-01-10,CUST-0092,Mia Brown,Small Business,Central,Illinois,Office Supplies,Storage,File Storage Box,4,0.15,96.33,16.15
+ORD-00504,2024-01-13,CUST-0175,Liam Davis,Small Business,East,Maryland,Office Supplies,Binders,Premium Binder Pack,5,0.2,96.11,10.1
+ORD-00902,2024-01-14,CUST-0020,Ethan Smith,Small Business,Central,Michigan,Technology,Accessories,Wireless Keyboard,8,0.05,405.54,64.25
+ORD-00088,2024-01-15,CUST-0068,Luna Harris,Small Business,Central,Texas,Office Supplies,Binders,Premium Binder Pack,5,0.1,98.64,22.22
+ORD-00727,2024-01-15,CUST-0226,Noah Miller,Corporate,South,Florida,Technology,Laptops,Business Laptop,6,0.2,3802.07,-305.77
+ORD-00965,2024-01-16,CUST-0121,Noah Wilson,Consumer,East,Pennsylvania,Office Supplies,Storage,File Storage Box,3,0,95.33,28.03
+ORD-00817,2024-01-17,CUST-0223,Jack Robinson,Corporate,Central,Illinois,Technology,Monitors,27-inch Monitor,2,0.15,514.73,33.18
+ORD-00863,2024-01-17,CUST-0026,Harper Martinez,Consumer,South,North Carolina,Furniture,Desks,Standing Desk,7,0,3691.07,677.13
+ORD-00121,2024-01-19,CUST-0125,Mia Taylor,Corporate,West,Oregon,Office Supplies,Paper,Printer Paper Case,6,0,234.03,76.13
+ORD-00640,2024-01-19,CUST-0229,Evelyn Johnson,Consumer,East,Maryland,Technology,Laptops,Business Laptop,6,0,4979.65,1068.21
+ORD-00280,2024-01-21,CUST-0097,Ethan Brown,Consumer,South,North Carolina,Technology,Monitors,27-inch Monitor,6,0,1910.07,334.85
+ORD-00299,2024-01-21,CUST-0003,Lucas Anderson,Small Business,Central,Michigan,Office Supplies,Writing,Pen Set,1,0.05,19.26,5.29
+ORD-00430,2024-01-23,CUST-0025,Liam Thompson,Small Business,East,Pennsylvania,Office Supplies,Paper,Printer Paper Case,5,0.1,192.41,34.1
+ORD-00256,2024-01-25,CUST-0244,Isabella Smith,Home Office,East,New York,Office Supplies,Binders,Premium Binder Pack,4,0.1,84.11,17.54
+ORD-00665,2024-01-25,CUST-0044,Mason Wilson,Corporate,West,Washington,Office Supplies,Binders,Premium Binder Pack,6,0.05,129.88,29.29
+ORD-00089,2024-01-26,CUST-0233,Mason Martin,Consumer,South,South Carolina,Office Supplies,Storage,File Storage Box,6,0.1,162.39,35.78
+ORD-00992,2024-01-26,CUST-0165,Mason Jackson,Corporate,West,Washington,Furniture,Chairs,Ergonomic Office Chair,7,0.2,1715.66,-74.97
+ORD-00782,2024-01-27,CUST-0105,Olivia Jackson,Consumer,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,4,0,91.48,29.42
+ORD-00866,2024-01-27,CUST-0154,Isabella Jackson,Corporate,West,California,Technology,Laptops,Business Laptop,3,0.2,2001.42,-88.47
+ORD-00046,2024-01-28,CUST-0035,Harper Miller,Consumer,East,Maryland,Office Supplies,Writing,Pen Set,7,0.1,117.07,30.0
+ORD-00271,2024-01-29,CUST-0208,Benjamin Robinson,Small Business,Central,Ohio,Furniture,Chairs,Ergonomic Office Chair,6,0.1,1811.46,23.83
+ORD-00298,2024-01-29,CUST-0220,Lucas Taylor,Corporate,Central,Texas,Technology,Monitors,27-inch Monitor,7,0,1811.01,447.03
+ORD-00916,2024-01-29,CUST-0078,Lucas Clark,Small Business,West,Colorado,Office Supplies,Storage,File Storage Box,1,0.2,25.44,0.88
+ORD-00324,2024-01-30,CUST-0012,Olivia Anderson,Small Business,West,Arizona,Furniture,Chairs,Ergonomic Office Chair,3,0.05,1045.28,108.32
+ORD-00403,2024-01-30,CUST-0120,Daniel Anderson,Home Office,East,Maryland,Technology,Accessories,Wireless Keyboard,1,0.15,45.64,2.53
+ORD-00620,2024-01-30,CUST-0245,Sophia Lewis,Consumer,South,Georgia,Technology,Accessories,Wireless Keyboard,2,0.05,115.4,18.59
+ORD-00835,2024-01-31,CUST-0213,Henry Wilson,Corporate,West,Oregon,Technology,Accessories,Wireless Keyboard,3,0,151.49,27.44
+ORD-00937,2024-01-31,CUST-0016,Ava Moore,Small Business,West,Arizona,Furniture,Desks,Standing Desk,1,0,516.77,92.98
+ORD-00837,2024-02-02,CUST-0243,Harper Robinson,Small Business,East,New York,Furniture,Desks,Standing Desk,3,0.1,1296.31,44.52
+ORD-00340,2024-02-03,CUST-0144,Lucas Robinson,Home Office,Central,Illinois,Office Supplies,Writing,Pen Set,6,0.2,86.59,9.25
+ORD-00580,2024-02-03,CUST-0043,Benjamin Martin,Corporate,West,Colorado,Technology,Laptops,Business Laptop,3,0.1,2428.2,225.48
+ORD-00734,2024-02-08,CUST-0085,Ava Anderson,Small Business,West,Washington,Furniture,Desks,Standing Desk,4,0.15,1841.34,-71.07
+ORD-00190,2024-02-10,CUST-0056,Benjamin Moore,Small Business,West,Oregon,Furniture,Chairs,Ergonomic Office Chair,2,0,713.22,121.55
+ORD-00617,2024-02-11,CUST-0029,Ava Davis,Small Business,West,California,Office Supplies,Storage,File Storage Box,8,0,293.63,79.63
+ORD-00939,2024-02-12,CUST-0123,Mason Taylor,Consumer,East,Massachusetts,Furniture,Bookcases,Office Bookcase,2,0,425.91,68.79
+ORD-00138,2024-02-13,CUST-0243,Liam Brown,Home Office,West,Arizona,Office Supplies,Storage,File Storage Box,6,0.1,198.63,44.04
+ORD-00265,2024-02-13,CUST-0102,Benjamin Smith,Home Office,South,Georgia,Technology,Phones,Smartphone,8,0,4811.86,933.27
+ORD-00365,2024-02-13,CUST-0117,Liam Johnson,Small Business,Central,Ohio,Technology,Accessories,Wireless Mouse,4,0.1,141.76,19.93
+ORD-00567,2024-02-14,CUST-0236,Jack Moore,Corporate,West,California,Technology,Monitors,27-inch Monitor,2,0,593.74,136.81
+ORD-00730,2024-02-14,CUST-0027,Daniel Clark,Corporate,Central,Tennessee,Office Supplies,Paper,Printer Paper Case,2,0,83.24,23.72
+ORD-00842,2024-02-15,CUST-0092,Mason Harris,Corporate,South,Virginia,Furniture,Chairs,Ergonomic Office Chair,8,0,2321.73,319.88
+ORD-00957,2024-02-15,CUST-0020,Lucas Moore,Small Business,Central,Tennessee,Furniture,Bookcases,Office Bookcase,4,0,763.96,107.1
+ORD-00193,2024-02-16,CUST-0149,Henry Thomas,Corporate,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,4,0.15,75.02,15.05
+ORD-00662,2024-02-16,CUST-0007,Luna Thomas,Consumer,West,Arizona,Office Supplies,Writing,Pen Set,8,0.15,116.88,19.51
+ORD-00884,2024-02-17,CUST-0152,Amelia Taylor,Consumer,South,Florida,Office Supplies,Storage,File Storage Box,5,0.05,138.65,31.97
+ORD-00887,2024-02-18,CUST-0248,Noah White,Consumer,Central,Michigan,Furniture,Chairs,Ergonomic Office Chair,7,0,2429.8,452.87
+ORD-00410,2024-02-20,CUST-0113,Emma Taylor,Consumer,Central,Texas,Technology,Accessories,Wireless Keyboard,1,0,62.84,12.02
+ORD-00040,2024-02-21,CUST-0136,Daniel Lewis,Small Business,East,Maryland,Office Supplies,Storage,File Storage Box,4,0.2,93.47,8.96
+ORD-00156,2024-02-22,CUST-0196,Daniel Anderson,Consumer,Central,Texas,Office Supplies,Binders,Premium Binder Pack,4,0,98.82,30.18
+ORD-00339,2024-02-24,CUST-0175,Sophia Wilson,Consumer,South,Florida,Technology,Accessories,Wireless Keyboard,1,0,52.36,14.06
+ORD-00899,2024-02-24,CUST-0058,Jack Harris,Home Office,South,South Carolina,Technology,Phones,Smartphone,1,0.1,556.84,25.14
+ORD-00462,2024-02-26,CUST-0155,Mason Jackson,Consumer,South,South Carolina,Technology,Accessories,Wireless Keyboard,6,0,303.35,70.39
+ORD-00270,2024-02-27,CUST-0215,Ethan Miller,Corporate,Central,Tennessee,Furniture,Bookcases,Office Bookcase,4,0.1,838.07,28.57
+ORD-00943,2024-02-28,CUST-0168,Lucas Thomas,Corporate,East,New York,Technology,Phones,Smartphone,3,0.05,1720.53,189.53
+ORD-00273,2024-03-01,CUST-0217,Evelyn White,Consumer,Central,Illinois,Office Supplies,Paper,Printer Paper Case,1,0,43.61,13.51
+ORD-00421,2024-03-05,CUST-0157,Mason Jackson,Home Office,East,Massachusetts,Furniture,Bookcases,Office Bookcase,7,0,1501.6,269.74
+ORD-00250,2024-03-06,CUST-0131,James Johnson,Home Office,West,Arizona,Office Supplies,Writing,Pen Set,5,0.15,87.46,12.96
+ORD-00717,2024-03-06,CUST-0226,Benjamin Thompson,Home Office,South,South Carolina,Office Supplies,Storage,File Storage Box,7,0.1,221.37,44.36
+ORD-00774,2024-03-06,CUST-0138,Evelyn Garcia,Consumer,East,New York,Office Supplies,Paper,Printer Paper Case,3,0.05,131.61,32.83
+ORD-00483,2024-03-07,CUST-0197,James Lewis,Corporate,West,Colorado,Technology,Laptops,Business Laptop,8,0,6629.25,1030.0
+ORD-00910,2024-03-07,CUST-0032,Liam Garcia,Small Business,Central,Michigan,Technology,Monitors,27-inch Monitor,5,0,1403.56,328.84
+ORD-00008,2024-03-08,CUST-0102,Harper Wilson,Small Business,Central,Michigan,Technology,Monitors,27-inch Monitor,4,0.1,1125.55,135.19
+ORD-00145,2024-03-08,CUST-0197,Henry Clark,Consumer,East,Maryland,Technology,Phones,Smartphone,5,0.05,3550.29,375.43
+ORD-00295,2024-03-08,CUST-0226,Luna Smith,Corporate,South,Virginia,Technology,Accessories,Wireless Keyboard,5,0.15,237.69,29.57
+ORD-00555,2024-03-08,CUST-0045,Daniel Thompson,Corporate,West,Oregon,Office Supplies,Paper,Printer Paper Case,7,0,259.25,68.6
+ORD-00603,2024-03-08,CUST-0117,Emma Johnson,Corporate,East,Massachusetts,Office Supplies,Writing,Pen Set,6,0.05,106.97,30.17
+ORD-00184,2024-03-09,CUST-0013,Lucas Johnson,Home Office,South,South Carolina,Technology,Accessories,Wireless Mouse,2,0.1,56.01,8.26
+ORD-00978,2024-03-09,CUST-0177,Sophia Lewis,Home Office,East,New York,Office Supplies,Binders,Premium Binder Pack,8,0.1,180.58,25.44
+ORD-00016,2024-03-10,CUST-0125,Mia Robinson,Corporate,South,North Carolina,Technology,Accessories,Wireless Mouse,1,0.2,27.14,0.09
+ORD-00386,2024-03-10,CUST-0205,Isabella Martin,Small Business,West,California,Technology,Monitors,27-inch Monitor,7,0.15,1820.83,151.62
+ORD-00855,2024-03-11,CUST-0108,Evelyn Moore,Small Business,East,New York,Technology,Accessories,Wireless Keyboard,5,0.05,235.66,36.39
+ORD-00358,2024-03-12,CUST-0178,Luna Wilson,Small Business,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,4,0,1314.54,222.61
+ORD-00748,2024-03-12,CUST-0046,James Miller,Corporate,West,California,Technology,Phones,Smartphone,7,0.1,4064.48,249.9
+ORD-00512,2024-03-13,CUST-0164,Emma Johnson,Home Office,South,North Carolina,Technology,Phones,Smartphone,5,0.2,2601.01,-349.02
+ORD-00938,2024-03-15,CUST-0157,Olivia Robinson,Home Office,South,South Carolina,Office Supplies,Storage,File Storage Box,1,0,36.64,10.4
+ORD-00115,2024-03-16,CUST-0020,Olivia Lewis,Home Office,South,Georgia,Office Supplies,Writing,Pen Set,5,0.05,85.67,26.83
+ORD-00146,2024-03-16,CUST-0200,Daniel Clark,Corporate,East,Massachusetts,Furniture,Desks,Standing Desk,8,0.05,4203.46,540.91
+ORD-00873,2024-03-16,CUST-0081,Harper Miller,Corporate,West,California,Office Supplies,Binders,Premium Binder Pack,8,0.15,146.98,16.45
+ORD-00809,2024-03-17,CUST-0185,Ava Johnson,Corporate,East,New Jersey,Technology,Phones,Smartphone,6,0,4195.79,579.77
+ORD-00975,2024-03-17,CUST-0132,Olivia Jackson,Consumer,South,South Carolina,Furniture,Bookcases,Office Bookcase,6,0,1281.3,239.29
+ORD-00361,2024-03-18,CUST-0104,Luna Moore,Consumer,Central,Texas,Furniture,Bookcases,Office Bookcase,1,0.2,170.85,3.18
+ORD-00509,2024-03-18,CUST-0198,Isabella Anderson,Corporate,Central,Michigan,Furniture,Desks,Standing Desk,8,0,4524.94,724.36
+ORD-00368,2024-03-19,CUST-0210,Noah Taylor,Home Office,West,Washington,Technology,Accessories,Wireless Mouse,5,0,161.1,40.95
+ORD-00561,2024-03-19,CUST-0043,Daniel Jackson,Small Business,Central,Tennessee,Furniture,Desks,Standing Desk,4,0.2,1746.48,-170.94
+ORD-00963,2024-03-19,CUST-0059,Luna Wilson,Corporate,Central,Tennessee,Office Supplies,Writing,Pen Set,6,0.15,92.78,19.49
+ORD-00996,2024-03-20,CUST-0043,Mia Thompson,Consumer,South,Florida,Furniture,Bookcases,Office Bookcase,7,0,1594.01,314.55
+ORD-00166,2024-03-21,CUST-0212,Daniel Anderson,Small Business,South,Georgia,Furniture,Bookcases,Office Bookcase,6,0.05,1265.36,109.88
+ORD-00022,2024-03-23,CUST-0031,Luna Taylor,Consumer,East,New York,Office Supplies,Writing,Pen Set,3,0,56.2,16.93
+ORD-00647,2024-03-27,CUST-0101,Liam Wilson,Consumer,South,Virginia,Technology,Phones,Smartphone,6,0,3854.94,613.19
+ORD-00633,2024-03-29,CUST-0043,Ava Thompson,Home Office,West,Oregon,Technology,Accessories,Wireless Mouse,5,0.2,140.72,-2.1
+ORD-00525,2024-03-31,CUST-0136,Noah Lewis,Small Business,East,New Jersey,Furniture,Chairs,Ergonomic Office Chair,5,0,1613.74,205.38
+ORD-00614,2024-04-01,CUST-0012,Ava Garcia,Small Business,Central,Michigan,Technology,Accessories,Wireless Keyboard,6,0.15,287.01,16.58
+ORD-00272,2024-04-02,CUST-0085,Jack Moore,Corporate,East,New Jersey,Technology,Laptops,Business Laptop,1,0,886.08,162.17
+ORD-00568,2024-04-02,CUST-0091,Ethan Martinez,Corporate,East,Massachusetts,Technology,Laptops,Business Laptop,3,0.2,2206.21,-2.44
+ORD-00262,2024-04-03,CUST-0210,Ethan Smith,Home Office,East,Massachusetts,Technology,Accessories,Wireless Keyboard,4,0,217.14,44.93
+ORD-00027,2024-04-04,CUST-0164,Sophia Miller,Home Office,West,Arizona,Technology,Laptops,Business Laptop,7,0.2,4544.39,222.56
+ORD-00237,2024-04-05,CUST-0014,Amelia Thomas,Corporate,Central,Illinois,Technology,Monitors,27-inch Monitor,6,0,1515.79,331.05
+ORD-00869,2024-04-05,CUST-0008,Jack Robinson,Consumer,East,Massachusetts,Technology,Accessories,Wireless Mouse,2,0,69.87,17.7
+ORD-00173,2024-04-07,CUST-0099,Lucas Thompson,Small Business,South,Florida,Furniture,Desks,Standing Desk,3,0,1573.9,158.36
+ORD-00238,2024-04-07,CUST-0175,Harper Smith,Consumer,West,California,Furniture,Bookcases,Office Bookcase,1,0,211.83,31.85
+ORD-00784,2024-04-07,CUST-0026,Liam Miller,Small Business,Central,Tennessee,Office Supplies,Storage,File Storage Box,6,0.15,168.83,18.41
+ORD-00578,2024-04-08,CUST-0052,Mason Garcia,Home Office,Central,Tennessee,Furniture,Chairs,Ergonomic Office Chair,2,0.15,598.32,-4.63
+ORD-00019,2024-04-10,CUST-0238,Lucas Miller,Home Office,South,Florida,Office Supplies,Writing,Pen Set,1,0.15,17.59,3.02
+ORD-00706,2024-04-10,CUST-0173,Isabella Anderson,Small Business,South,Georgia,Technology,Accessories,Wireless Mouse,2,0,68.41,15.74
+ORD-00091,2024-04-11,CUST-0095,Mia Thompson,Home Office,East,New Jersey,Furniture,Desks,Standing Desk,8,0.1,3707.28,-126.59
+ORD-00577,2024-04-11,CUST-0098,Jack Jackson,Corporate,East,Pennsylvania,Technology,Laptops,Business Laptop,1,0.2,610.93,-8.48
+ORD-00821,2024-04-12,CUST-0165,Liam Wilson,Corporate,East,New York,Furniture,Chairs,Ergonomic Office Chair,7,0.05,1913.99,218.03
+ORD-00274,2024-04-13,CUST-0112,Benjamin Jackson,Corporate,Central,Michigan,Furniture,Chairs,Ergonomic Office Chair,6,0,1885.85,331.74
+ORD-00987,2024-04-14,CUST-0059,Lucas Johnson,Small Business,South,North Carolina,Office Supplies,Writing,Pen Set,7,0.2,101.9,13.07
+ORD-00878,2024-04-15,CUST-0227,Harper Martin,Small Business,East,Massachusetts,Office Supplies,Binders,Premium Binder Pack,5,0,131.33,39.91
+ORD-00052,2024-04-18,CUST-0112,Ethan Martinez,Small Business,South,Florida,Office Supplies,Storage,File Storage Box,7,0,235.56,69.17
+ORD-00353,2024-04-18,CUST-0238,Harper Harris,Home Office,South,Georgia,Office Supplies,Writing,Pen Set,5,0.2,76.69,5.56
+ORD-00050,2024-04-20,CUST-0242,Mia Brown,Corporate,South,South Carolina,Technology,Monitors,27-inch Monitor,1,0,289.93,56.18
+ORD-00728,2024-04-20,CUST-0139,Amelia Martin,Consumer,South,Florida,Office Supplies,Writing,Pen Set,6,0,111.43,33.28
+ORD-00162,2024-04-22,CUST-0053,Henry Martinez,Home Office,South,Virginia,Furniture,Bookcases,Office Bookcase,4,0,839.23,140.29
+ORD-00805,2024-04-22,CUST-0082,Liam Miller,Consumer,West,California,Technology,Monitors,27-inch Monitor,5,0,1338.05,264.43
+ORD-00715,2024-04-23,CUST-0232,Mia Wilson,Corporate,West,Colorado,Technology,Accessories,Wireless Keyboard,3,0.1,147.46,13.33
+ORD-00028,2024-04-24,CUST-0150,Daniel Wilson,Home Office,West,Oregon,Technology,Laptops,Business Laptop,2,0.15,1624.27,74.73
+ORD-00543,2024-04-24,CUST-0006,Mason Martin,Corporate,South,South Carolina,Technology,Monitors,27-inch Monitor,3,0.05,734.67,146.61
+ORD-00807,2024-04-24,CUST-0085,James White,Small Business,Central,Ohio,Technology,Monitors,27-inch Monitor,2,0.15,420.64,28.57
+ORD-00228,2024-04-25,CUST-0211,Liam Thompson,Corporate,West,Oregon,Office Supplies,Writing,Pen Set,2,0,39.21,12.27
+ORD-00792,2024-04-25,CUST-0031,Mason Thomas,Home Office,West,Washington,Office Supplies,Paper,Printer Paper Case,6,0.15,202.94,28.5
+ORD-00322,2024-04-26,CUST-0218,Benjamin Martin,Corporate,Central,Ohio,Technology,Accessories,Wireless Keyboard,7,0.05,416.89,69.44
+ORD-00981,2024-04-26,CUST-0216,Benjamin Lewis,Home Office,West,Arizona,Furniture,Desks,Standing Desk,6,0.15,2618.81,125.36
+ORD-00219,2024-04-27,CUST-0239,Lucas Martinez,Corporate,Central,Texas,Furniture,Bookcases,Office Bookcase,1,0.2,163.4,4.72
+ORD-00941,2024-04-28,CUST-0050,Isabella Martin,Consumer,West,Oregon,Technology,Accessories,Wireless Keyboard,8,0,493.78,105.22
+ORD-00564,2024-04-29,CUST-0210,Harper Lewis,Small Business,West,Colorado,Technology,Phones,Smartphone,3,0,1968.47,300.45
+ORD-00558,2024-05-02,CUST-0149,Benjamin Clark,Home Office,West,Washington,Technology,Laptops,Business Laptop,5,0.05,4636.95,765.56
+ORD-00144,2024-05-04,CUST-0142,Luna White,Home Office,Central,Tennessee,Technology,Accessories,Wireless Mouse,4,0.2,102.76,-5.39
+ORD-00944,2024-05-05,CUST-0189,James Taylor,Home Office,West,Colorado,Furniture,Desks,Standing Desk,2,0,985.46,142.44
+ORD-00652,2024-05-06,CUST-0189,Emma Thompson,Small Business,Central,Tennessee,Office Supplies,Paper,Printer Paper Case,1,0.2,35.47,3.26
+ORD-00765,2024-05-06,CUST-0127,Mason Harris,Consumer,Central,Tennessee,Furniture,Bookcases,Office Bookcase,5,0.2,899.44,-11.52
+ORD-00686,2024-05-07,CUST-0178,Olivia Wilson,Consumer,South,Florida,Furniture,Chairs,Ergonomic Office Chair,2,0,732.88,139.33
+ORD-00724,2024-05-07,CUST-0040,Harper White,Corporate,South,South Carolina,Technology,Monitors,27-inch Monitor,7,0,1765.86,390.19
+ORD-00417,2024-05-08,CUST-0089,Harper Moore,Consumer,East,Maryland,Technology,Phones,Smartphone,8,0,5020.7,893.78
+ORD-00737,2024-05-08,CUST-0061,Evelyn Brown,Home Office,South,South Carolina,Technology,Accessories,Wireless Mouse,2,0,72.8,20.67
+ORD-00524,2024-05-09,CUST-0241,Ethan Lewis,Consumer,West,Colorado,Furniture,Bookcases,Office Bookcase,4,0,884.31,147.75
+ORD-00762,2024-05-10,CUST-0138,Mia Harris,Home Office,South,Virginia,Office Supplies,Paper,Printer Paper Case,6,0.05,247.96,50.96
+ORD-00391,2024-05-11,CUST-0129,James Harris,Corporate,West,Washington,Furniture,Chairs,Ergonomic Office Chair,1,0.1,320.52,16.02
+ORD-00109,2024-05-12,CUST-0207,James Brown,Home Office,West,Colorado,Technology,Accessories,Wireless Keyboard,7,0.1,370.75,53.75
+ORD-00508,2024-05-13,CUST-0048,Noah Miller,Small Business,South,North Carolina,Furniture,Chairs,Ergonomic Office Chair,7,0.15,2100.52,8.35
+ORD-00334,2024-05-17,CUST-0215,Luna Garcia,Corporate,West,Oregon,Office Supplies,Writing,Pen Set,8,0,147.34,53.66
+ORD-00418,2024-05-17,CUST-0179,Benjamin Moore,Corporate,West,Arizona,Furniture,Bookcases,Office Bookcase,5,0,1061.58,166.16
+ORD-00560,2024-05-18,CUST-0245,James Johnson,Small Business,Central,Michigan,Furniture,Bookcases,Office Bookcase,6,0,1126.79,211.01
+ORD-00226,2024-05-19,CUST-0105,Benjamin Martin,Home Office,Central,Texas,Office Supplies,Storage,File Storage Box,4,0.2,100.73,6.18
+ORD-00594,2024-05-19,CUST-0165,Liam Garcia,Consumer,East,Pennsylvania,Technology,Monitors,27-inch Monitor,1,0,306.1,64.15
+ORD-00128,2024-05-20,CUST-0195,Benjamin Thompson,Consumer,South,Georgia,Technology,Accessories,Wireless Keyboard,1,0,62.02,15.8
+ORD-00196,2024-05-20,CUST-0096,Liam Lewis,Home Office,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,4,0,102.81,31.41
+ORD-00447,2024-05-21,CUST-0233,Ava Martin,Corporate,East,Pennsylvania,Furniture,Desks,Standing Desk,4,0.2,1526.37,-94.25
+ORD-00964,2024-05-21,CUST-0108,Evelyn Wilson,Home Office,West,Oregon,Furniture,Desks,Standing Desk,5,0.2,1991.51,-179.88
+ORD-00195,2024-05-23,CUST-0016,Evelyn Johnson,Consumer,East,Massachusetts,Technology,Accessories,Wireless Keyboard,8,0,496.13,117.96
+ORD-00355,2024-05-24,CUST-0243,Olivia Thomas,Corporate,South,Virginia,Office Supplies,Writing,Pen Set,2,0,31.73,10.42
+ORD-00441,2024-05-24,CUST-0044,Liam Thomas,Corporate,West,Oregon,Furniture,Bookcases,Office Bookcase,1,0.05,206.96,15.32
+ORD-00519,2024-05-24,CUST-0063,Ava Smith,Corporate,South,North Carolina,Furniture,Bookcases,Office Bookcase,8,0.15,1263.99,-20.21
+ORD-00919,2024-05-27,CUST-0078,Mason Smith,Home Office,South,South Carolina,Office Supplies,Writing,Pen Set,8,0,135.41,48.3
+ORD-00395,2024-05-29,CUST-0229,Evelyn Robinson,Small Business,West,Colorado,Technology,Accessories,Wireless Mouse,3,0.05,109.48,21.86
+ORD-00783,2024-05-29,CUST-0097,Noah Davis,Corporate,Central,Ohio,Technology,Monitors,27-inch Monitor,4,0,988.58,244.37
+ORD-00098,2024-05-31,CUST-0084,Amelia Lewis,Small Business,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,2,0,620.27,98.84
+ORD-00546,2024-05-31,CUST-0183,Daniel Thomas,Corporate,Central,Ohio,Technology,Laptops,Business Laptop,6,0,5115.81,1141.7
+ORD-00290,2024-06-02,CUST-0237,Noah Clark,Consumer,West,California,Office Supplies,Binders,Premium Binder Pack,3,0.1,67.31,14.75
+ORD-00593,2024-06-02,CUST-0144,Henry Martin,Consumer,West,Washington,Technology,Phones,Smartphone,4,0,2460.4,398.03
+ORD-00858,2024-06-03,CUST-0173,Henry Anderson,Consumer,Central,Ohio,Technology,Laptops,Business Laptop,8,0,6900.98,1458.05
+ORD-00897,2024-06-03,CUST-0095,Noah Johnson,Home Office,Central,Michigan,Technology,Accessories,Wireless Mouse,7,0.1,219.69,30.69
+ORD-00010,2024-06-05,CUST-0153,Harper Martinez,Small Business,South,North Carolina,Technology,Phones,Smartphone,3,0.2,1659.42,-127.68
+ORD-00894,2024-06-06,CUST-0223,Jack Martinez,Corporate,Central,Michigan,Furniture,Desks,Standing Desk,2,0,976.63,183.37
+ORD-00402,2024-06-08,CUST-0189,Mason Thompson,Corporate,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,2,0.15,625.17,-15.28
+ORD-00838,2024-06-09,CUST-0055,Amelia Lewis,Consumer,Central,Illinois,Office Supplies,Binders,Premium Binder Pack,5,0,122.5,33.23
+ORD-00528,2024-06-10,CUST-0114,Luna Clark,Small Business,South,Virginia,Technology,Accessories,Wireless Keyboard,1,0.05,53.24,8.47
+ORD-00813,2024-06-12,CUST-0117,Evelyn Martinez,Small Business,East,Pennsylvania,Technology,Laptops,Business Laptop,4,0.1,3268.43,256.27
+ORD-00318,2024-06-13,CUST-0085,Lucas Smith,Consumer,Central,Michigan,Technology,Monitors,27-inch Monitor,1,0.1,255.53,38.72
+ORD-00959,2024-06-13,CUST-0028,Jack Moore,Small Business,Central,Tennessee,Technology,Laptops,Business Laptop,6,0,4888.53,944.52
+ORD-00743,2024-06-15,CUST-0185,James Martinez,Home Office,South,Florida,Furniture,Chairs,Ergonomic Office Chair,4,0.2,1037.71,1.61
+ORD-00554,2024-06-16,CUST-0023,Ava Moore,Small Business,West,Colorado,Technology,Monitors,27-inch Monitor,7,0.15,1869.31,150.08
+ORD-00014,2024-06-18,CUST-0139,Mia Thomas,Home Office,East,New Jersey,Office Supplies,Writing,Pen Set,5,0.1,90.36,17.5
+ORD-00401,2024-06-19,CUST-0014,Emma Harris,Consumer,Central,Texas,Technology,Accessories,Wireless Mouse,7,0,221.92,53.83
+ORD-00427,2024-06-19,CUST-0154,Harper White,Small Business,West,Colorado,Technology,Phones,Smartphone,3,0.1,1734.68,58.95
+ORD-00966,2024-06-19,CUST-0109,James Wilson,Home Office,West,California,Furniture,Bookcases,Office Bookcase,2,0,427.99,70.59
+ORD-00288,2024-06-20,CUST-0175,Henry Moore,Corporate,South,Florida,Technology,Accessories,Wireless Keyboard,4,0.2,164.04,3.6
+ORD-00643,2024-06-20,CUST-0182,Harper Martinez,Home Office,South,Virginia,Technology,Phones,Smartphone,2,0.2,972.87,-17.36
+ORD-00993,2024-06-22,CUST-0104,Jack Garcia,Corporate,South,North Carolina,Office Supplies,Writing,Pen Set,4,0.2,65.34,3.68
+ORD-00284,2024-06-23,CUST-0121,Benjamin Anderson,Consumer,South,North Carolina,Technology,Accessories,Wireless Mouse,5,0,176.38,47.74
+ORD-00890,2024-06-23,CUST-0193,Luna Martin,Home Office,West,Arizona,Furniture,Bookcases,Office Bookcase,3,0.1,569.49,68.33
+ORD-00997,2024-06-23,CUST-0076,Noah Martin,Small Business,South,Florida,Office Supplies,Storage,File Storage Box,8,0,277.05,73.68
+ORD-00111,2024-06-24,CUST-0028,Lucas Martin,Home Office,West,California,Office Supplies,Paper,Printer Paper Case,8,0.2,286.59,21.75
+ORD-00532,2024-06-24,CUST-0164,Jack Miller,Corporate,West,Colorado,Office Supplies,Binders,Premium Binder Pack,6,0,161.18,53.36
+ORD-00645,2024-06-24,CUST-0171,Lucas Wilson,Home Office,Central,Ohio,Office Supplies,Writing,Pen Set,2,0,35.3,11.03
+ORD-00713,2024-06-24,CUST-0126,Emma Miller,Corporate,West,Arizona,Technology,Phones,Smartphone,2,0.15,1137.36,67.25
+ORD-00245,2024-06-25,CUST-0056,Liam Johnson,Home Office,Central,Tennessee,Furniture,Desks,Standing Desk,8,0.2,2994.23,-386.98
+ORD-00063,2024-06-26,CUST-0075,Liam Taylor,Small Business,South,South Carolina,Technology,Accessories,Wireless Mouse,2,0,61.65,15.62
+ORD-00926,2024-06-27,CUST-0220,Ava Anderson,Small Business,West,Oregon,Technology,Phones,Smartphone,3,0,2061.35,332.61
+ORD-00309,2024-06-30,CUST-0199,Ethan Clark,Corporate,West,Arizona,Furniture,Desks,Standing Desk,6,0.15,2375.3,-99.38
+ORD-00343,2024-06-30,CUST-0011,Henry Anderson,Small Business,East,Massachusetts,Office Supplies,Storage,File Storage Box,2,0,72.95,17.56
+ORD-00452,2024-06-30,CUST-0228,Lucas Martin,Home Office,East,Pennsylvania,Technology,Phones,Smartphone,8,0.2,4353.88,-193.89
+ORD-00182,2024-07-01,CUST-0194,Emma Thomas,Home Office,East,Massachusetts,Technology,Phones,Smartphone,7,0.1,3744.4,211.22
+ORD-00463,2024-07-01,CUST-0147,Daniel Miller,Home Office,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,3,0.15,58.56,8.4
+ORD-00511,2024-07-01,CUST-0165,Noah Thompson,Small Business,East,Maryland,Office Supplies,Binders,Premium Binder Pack,8,0,176.42,49.34
+ORD-00618,2024-07-03,CUST-0150,Mia Clark,Consumer,South,South Carolina,Technology,Monitors,27-inch Monitor,3,0.15,726.39,69.46
+ORD-00123,2024-07-04,CUST-0061,Harper Lewis,Small Business,West,Washington,Technology,Accessories,Wireless Keyboard,3,0.15,139.99,11.74
+ORD-00409,2024-07-05,CUST-0180,Jack Garcia,Corporate,West,Washington,Technology,Phones,Smartphone,3,0,1774.1,285.18
+ORD-00070,2024-07-11,CUST-0053,Sophia Robinson,Corporate,West,Colorado,Technology,Laptops,Business Laptop,6,0.1,4976.66,452.25
+ORD-00492,2024-07-11,CUST-0224,Ava Wilson,Consumer,East,New Jersey,Technology,Accessories,Wireless Keyboard,7,0.2,347.92,-23.28
+ORD-00407,2024-07-12,CUST-0166,Amelia Harris,Corporate,South,Virginia,Office Supplies,Paper,Printer Paper Case,7,0.1,264.08,55.29
+ORD-00898,2024-07-12,CUST-0111,Noah Johnson,Corporate,West,Washington,Technology,Monitors,27-inch Monitor,7,0,2039.17,416.86
+ORD-00191,2024-07-13,CUST-0155,Mia Harris,Corporate,Central,Texas,Technology,Accessories,Wireless Mouse,2,0.15,68.42,4.02
+ORD-00282,2024-07-13,CUST-0170,Mason Thomas,Corporate,South,Georgia,Technology,Accessories,Wireless Mouse,7,0.15,214.42,9.72
+ORD-00790,2024-07-13,CUST-0190,Evelyn Lewis,Consumer,West,California,Furniture,Chairs,Ergonomic Office Chair,1,0.15,274.8,-7.43
+ORD-00135,2024-07-14,CUST-0070,Noah White,Home Office,Central,Texas,Furniture,Desks,Standing Desk,5,0,2893.22,460.07
+ORD-00632,2024-07-14,CUST-0054,Benjamin Wilson,Corporate,East,Pennsylvania,Technology,Laptops,Business Laptop,2,0.2,1202.63,-71.14
+ORD-00860,2024-07-14,CUST-0129,Noah Garcia,Home Office,East,Massachusetts,Technology,Accessories,Wireless Mouse,1,0,38.49,10.8
+ORD-00164,2024-07-15,CUST-0077,Mason Moore,Home Office,Central,Tennessee,Office Supplies,Storage,File Storage Box,4,0,131.93,41.9
+ORD-00699,2024-07-15,CUST-0063,Liam Lewis,Corporate,East,Pennsylvania,Technology,Accessories,Wireless Mouse,7,0.15,204.3,23.28
+ORD-00349,2024-07-16,CUST-0198,Daniel Robinson,Consumer,South,Georgia,Furniture,Desks,Standing Desk,6,0.1,2533.47,257.63
+ORD-00531,2024-07-17,CUST-0016,Sophia Wilson,Consumer,East,New Jersey,Furniture,Bookcases,Office Bookcase,6,0,1177.59,226.45
+ORD-00552,2024-07-18,CUST-0171,James Harris,Corporate,South,Virginia,Office Supplies,Binders,Premium Binder Pack,8,0,200.23,53.07
+ORD-00757,2024-07-18,CUST-0130,Liam Wilson,Home Office,West,Arizona,Furniture,Chairs,Ergonomic Office Chair,3,0.2,795.92,-33.04
+ORD-00977,2024-07-19,CUST-0073,Ava Moore,Consumer,West,Washington,Furniture,Desks,Standing Desk,5,0.05,2274.59,231.11
+ORD-00222,2024-07-20,CUST-0164,Isabella Lewis,Home Office,East,Massachusetts,Office Supplies,Paper,Printer Paper Case,8,0,319.48,91.85
+ORD-00696,2024-07-22,CUST-0087,Daniel Taylor,Corporate,Central,Texas,Technology,Laptops,Business Laptop,4,0,3151.87,645.17
+ORD-00439,2024-07-23,CUST-0014,Lucas Lewis,Corporate,West,California,Technology,Accessories,Wireless Mouse,6,0,227.76,47.86
+ORD-00308,2024-07-24,CUST-0037,Isabella Miller,Consumer,South,South Carolina,Technology,Accessories,Wireless Keyboard,6,0.05,359.44,72.61
+ORD-00587,2024-07-25,CUST-0138,Mia Thomas,Small Business,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,8,0.15,180.95,26.2
+ORD-00260,2024-07-26,CUST-0116,Harper Jackson,Home Office,Central,Illinois,Technology,Phones,Smartphone,3,0.2,1697.19,-73.94
+ORD-00189,2024-07-27,CUST-0138,Mia Johnson,Small Business,West,Washington,Technology,Monitors,27-inch Monitor,6,0.15,1287.13,42.37
+ORD-00946,2024-07-27,CUST-0054,Noah White,Corporate,West,Arizona,Technology,Phones,Smartphone,3,0.2,1783.87,-1.59
+ORD-00649,2024-07-29,CUST-0199,Mia Thomas,Consumer,West,Colorado,Furniture,Desks,Standing Desk,8,0.15,3441.3,-119.33
+ORD-00714,2024-07-29,CUST-0133,Emma Miller,Small Business,South,Florida,Technology,Monitors,27-inch Monitor,4,0,1185.05,195.74
+ORD-00163,2024-07-31,CUST-0118,Daniel Jackson,Small Business,South,South Carolina,Office Supplies,Writing,Pen Set,6,0.15,92.64,19.66
+ORD-00202,2024-07-31,CUST-0077,Ethan Clark,Corporate,East,Massachusetts,Technology,Laptops,Business Laptop,3,0.2,2247.24,-78.45
+ORD-00213,2024-08-02,CUST-0204,Henry Garcia,Corporate,South,Florida,Furniture,Bookcases,Office Bookcase,8,0.2,1288.44,-50.81
+ORD-00766,2024-08-03,CUST-0220,Benjamin Harris,Small Business,Central,Illinois,Furniture,Bookcases,Office Bookcase,4,0.15,770.15,-2.5
+ORD-00047,2024-08-04,CUST-0244,Henry Anderson,Consumer,Central,Michigan,Office Supplies,Paper,Printer Paper Case,8,0,326.3,86.48
+ORD-00266,2024-08-07,CUST-0159,Jack Taylor,Small Business,West,Washington,Office Supplies,Paper,Printer Paper Case,3,0,120.4,29.27
+ORD-00598,2024-08-07,CUST-0137,James Davis,Small Business,East,New York,Technology,Accessories,Wireless Keyboard,5,0.05,258.71,30.82
+ORD-00129,2024-08-08,CUST-0199,Mason Taylor,Small Business,South,North Carolina,Technology,Monitors,27-inch Monitor,3,0.1,857.2,69.91
+ORD-00185,2024-08-10,CUST-0188,Luna Jackson,Small Business,West,Washington,Office Supplies,Writing,Pen Set,1,0,18.29,6.46
+ORD-00411,2024-08-10,CUST-0119,Liam Jackson,Consumer,East,New York,Office Supplies,Storage,File Storage Box,6,0.05,175.86,44.99
+ORD-00002,2024-08-11,CUST-0180,Daniel Martin,Corporate,South,North Carolina,Technology,Phones,Smartphone,4,0.1,2439.56,172.64
+ORD-00694,2024-08-12,CUST-0062,Benjamin Jackson,Home Office,West,California,Office Supplies,Storage,File Storage Box,1,0.15,25.57,3.72
+ORD-00980,2024-08-12,CUST-0064,Henry Davis,Corporate,West,Arizona,Technology,Phones,Smartphone,2,0.2,1129.71,-56.6
+ORD-00864,2024-08-16,CUST-0032,James Thompson,Home Office,Central,Michigan,Technology,Accessories,Wireless Mouse,8,0.1,247.69,37.28
+ORD-00626,2024-08-17,CUST-0120,Henry Brown,Home Office,Central,Michigan,Furniture,Desks,Standing Desk,3,0.05,1515.15,72.94
+ORD-00161,2024-08-21,CUST-0199,Amelia Wilson,Corporate,Central,Tennessee,Furniture,Chairs,Ergonomic Office Chair,1,0.1,295.34,18.74
+ORD-00450,2024-08-24,CUST-0217,Jack Garcia,Small Business,East,Maryland,Technology,Accessories,Wireless Mouse,1,0,31.55,6.69
+ORD-00962,2024-08-24,CUST-0188,Henry White,Consumer,Central,Illinois,Office Supplies,Paper,Printer Paper Case,8,0,363.56,95.14
+ORD-00482,2024-08-25,CUST-0101,Ethan Jackson,Small Business,Central,Michigan,Office Supplies,Storage,File Storage Box,4,0,142.4,44.45
+ORD-00972,2024-08-25,CUST-0044,Emma Lewis,Consumer,Central,Tennessee,Technology,Phones,Smartphone,5,0,2944.22,488.1
+ORD-00079,2024-08-28,CUST-0163,Noah Thompson,Corporate,South,Virginia,Technology,Phones,Smartphone,5,0,3515.29,452.98
+ORD-00491,2024-08-28,CUST-0104,Amelia Martin,Corporate,South,Georgia,Technology,Laptops,Business Laptop,7,0.15,5256.48,146.08
+ORD-00584,2024-08-28,CUST-0030,Isabella Miller,Consumer,South,South Carolina,Technology,Accessories,Wireless Mouse,5,0.1,142.21,22.32
+ORD-00612,2024-08-28,CUST-0154,Liam Smith,Small Business,South,North Carolina,Office Supplies,Paper,Printer Paper Case,8,0,386.1,126.27
+ORD-00415,2024-08-29,CUST-0102,Lucas Smith,Consumer,South,South Carolina,Technology,Phones,Smartphone,7,0,4022.51,694.38
+ORD-00547,2024-08-31,CUST-0095,Ethan Moore,Consumer,East,Pennsylvania,Technology,Accessories,Wireless Keyboard,2,0,126.32,27.75
+ORD-00049,2024-09-01,CUST-0180,Sophia White,Corporate,South,Virginia,Technology,Accessories,Wireless Keyboard,3,0.05,166.27,23.73
+ORD-00124,2024-09-01,CUST-0174,Luna Thompson,Home Office,West,Washington,Office Supplies,Writing,Pen Set,5,0.2,78.61,2.28
+ORD-00224,2024-09-01,CUST-0108,Jack Wilson,Home Office,East,Massachusetts,Technology,Phones,Smartphone,5,0,3020.62,501.35
+ORD-00382,2024-09-01,CUST-0172,Amelia Harris,Corporate,East,New York,Office Supplies,Paper,Printer Paper Case,1,0,37.94,10.47
+ORD-00540,2024-09-01,CUST-0246,Mia Taylor,Small Business,East,Pennsylvania,Office Supplies,Paper,Printer Paper Case,2,0.15,72.06,6.32
+ORD-00891,2024-09-03,CUST-0124,Lucas Brown,Small Business,South,Virginia,Office Supplies,Writing,Pen Set,8,0.15,123.91,25.31
+ORD-00073,2024-09-06,CUST-0192,Ava Brown,Small Business,West,Colorado,Office Supplies,Storage,File Storage Box,8,0.1,211.75,40.76
+ORD-00199,2024-09-06,CUST-0220,Liam Brown,Home Office,West,Colorado,Furniture,Chairs,Ergonomic Office Chair,4,0,1384.1,233.69
+ORD-00664,2024-09-08,CUST-0012,Benjamin Smith,Small Business,South,Georgia,Technology,Accessories,Wireless Mouse,8,0,307.4,72.6
+ORD-00599,2024-09-09,CUST-0211,Mason Smith,Consumer,West,Colorado,Furniture,Desks,Standing Desk,5,0.2,2356.6,-92.26
+ORD-00619,2024-09-09,CUST-0175,Noah Harris,Small Business,East,New Jersey,Technology,Phones,Smartphone,8,0.15,4002.14,-15.98
+ORD-00413,2024-09-10,CUST-0054,Benjamin Harris,Small Business,East,New Jersey,Office Supplies,Storage,File Storage Box,1,0,32.14,8.9
+ORD-00700,2024-09-10,CUST-0248,Luna Garcia,Corporate,Central,Illinois,Office Supplies,Paper,Printer Paper Case,1,0.15,39.08,4.61
+ORD-00745,2024-09-10,CUST-0099,Amelia Clark,Consumer,West,Washington,Technology,Monitors,27-inch Monitor,3,0,765.67,171.54
+ORD-00296,2024-09-12,CUST-0095,Harper Martinez,Home Office,East,Pennsylvania,Technology,Laptops,Business Laptop,1,0.05,721.62,77.29
+ORD-00085,2024-09-13,CUST-0202,Harper Johnson,Small Business,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,3,0.15,751.04,-47.26
+ORD-00590,2024-09-14,CUST-0181,Evelyn Miller,Home Office,East,New Jersey,Office Supplies,Binders,Premium Binder Pack,8,0.15,177.26,22.23
+ORD-00034,2024-09-17,CUST-0176,Mia White,Home Office,West,Oregon,Technology,Accessories,Wireless Mouse,1,0.15,29.68,3.14
+ORD-00875,2024-09-17,CUST-0195,Ava Moore,Small Business,East,Maryland,Furniture,Bookcases,Office Bookcase,2,0,438.33,77.42
+ORD-00251,2024-09-18,CUST-0001,Liam Smith,Corporate,East,Massachusetts,Technology,Accessories,Wireless Keyboard,2,0.1,105.14,16.8
+ORD-00278,2024-09-19,CUST-0249,Ethan Martin,Home Office,East,New York,Office Supplies,Paper,Printer Paper Case,2,0.15,62.86,9.5
+ORD-00445,2024-09-20,CUST-0058,Ava Jackson,Home Office,Central,Texas,Furniture,Desks,Standing Desk,7,0.2,3341.22,-293.61
+ORD-00680,2024-09-22,CUST-0006,Daniel Lewis,Small Business,East,New York,Technology,Accessories,Wireless Keyboard,4,0.1,213.21,34.08
+ORD-00983,2024-09-23,CUST-0012,Mason Thompson,Home Office,West,Colorado,Office Supplies,Binders,Premium Binder Pack,1,0,24.27,7.7
+ORD-00302,2024-09-24,CUST-0207,Jack Harris,Small Business,Central,Ohio,Technology,Monitors,27-inch Monitor,5,0,1288.67,310.53
+ORD-00557,2024-09-25,CUST-0229,Mason Martin,Corporate,South,North Carolina,Technology,Accessories,Wireless Keyboard,5,0.15,258.35,19.72
+ORD-00607,2024-09-25,CUST-0023,James Miller,Consumer,South,Florida,Technology,Accessories,Wireless Mouse,3,0,103.77,23.18
+ORD-00610,2024-09-25,CUST-0166,Harper Brown,Consumer,East,New York,Technology,Monitors,27-inch Monitor,4,0.1,1009.78,118.71
+ORD-00393,2024-09-26,CUST-0128,Henry Moore,Home Office,Central,Illinois,Office Supplies,Writing,Pen Set,4,0,72.52,22.69
+ORD-00074,2024-09-30,CUST-0169,Benjamin Wilson,Home Office,West,Arizona,Office Supplies,Writing,Pen Set,1,0,19.37,6.43
+ORD-00786,2024-09-30,CUST-0174,Jack Martin,Home Office,West,Oregon,Furniture,Bookcases,Office Bookcase,1,0.15,187.89,8.77
+ORD-00625,2024-10-01,CUST-0112,Henry Brown,Consumer,West,Colorado,Office Supplies,Storage,File Storage Box,7,0,242.87,69.28
+ORD-00982,2024-10-01,CUST-0067,Isabella Martin,Home Office,East,New York,Technology,Monitors,27-inch Monitor,4,0.2,977.86,60.79
+ORD-00233,2024-10-02,CUST-0024,Amelia Martinez,Small Business,East,Maryland,Furniture,Desks,Standing Desk,7,0.05,3465.05,416.51
+ORD-00388,2024-10-02,CUST-0052,Lucas Taylor,Small Business,Central,Illinois,Furniture,Chairs,Ergonomic Office Chair,3,0.15,882.15,-41.45
+ORD-00818,2024-10-02,CUST-0115,Lucas Martin,Small Business,West,Washington,Office Supplies,Paper,Printer Paper Case,4,0.1,158.77,22.88
+ORD-00840,2024-10-03,CUST-0008,Lucas Thomas,Corporate,Central,Michigan,Technology,Accessories,Wireless Mouse,2,0,63.07,17.42
+ORD-00918,2024-10-03,CUST-0177,Isabella Johnson,Consumer,South,North Carolina,Technology,Laptops,Business Laptop,2,0,1768.8,337.65
+ORD-00104,2024-10-06,CUST-0169,Amelia Brown,Corporate,Central,Texas,Technology,Accessories,Wireless Keyboard,5,0,268.06,51.71
+ORD-00522,2024-10-07,CUST-0113,Lucas Clark,Consumer,Central,Texas,Technology,Phones,Smartphone,3,0.2,1547.66,-114.14
+ORD-00602,2024-10-07,CUST-0238,Isabella Martin,Consumer,Central,Michigan,Technology,Laptops,Business Laptop,2,0.2,1483.02,-18.8
+ORD-00001,2024-10-08,CUST-0140,Olivia Clark,Home Office,South,North Carolina,Furniture,Bookcases,Office Bookcase,4,0,770.85,151.6
+ORD-00883,2024-10-11,CUST-0082,Isabella Moore,Corporate,East,New York,Office Supplies,Writing,Pen Set,2,0.1,36.32,8.82
+ORD-00895,2024-10-11,CUST-0027,Ava Thompson,Consumer,West,Washington,Technology,Phones,Smartphone,7,0,4847.08,833.46
+ORD-00032,2024-10-12,CUST-0216,Daniel Jackson,Consumer,East,New Jersey,Office Supplies,Paper,Printer Paper Case,2,0.2,64.2,2.5
+ORD-00853,2024-10-12,CUST-0055,Isabella Clark,Consumer,East,New Jersey,Technology,Phones,Smartphone,8,0,5341.29,710.91
+ORD-00394,2024-10-13,CUST-0209,Noah Anderson,Corporate,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,8,0,198.58,63.89
+ORD-00826,2024-10-15,CUST-0236,Olivia Johnson,Corporate,South,South Carolina,Technology,Phones,Smartphone,6,0,4080.33,828.71
+ORD-00872,2024-10-16,CUST-0215,Mia Harris,Consumer,South,North Carolina,Technology,Accessories,Wireless Keyboard,5,0,248.89,52.9
+ORD-00924,2024-10-17,CUST-0166,Jack Thompson,Consumer,West,Washington,Technology,Laptops,Business Laptop,8,0,7019.89,1174.07
+ORD-00126,2024-10-18,CUST-0213,Henry Brown,Corporate,South,Virginia,Technology,Phones,Smartphone,2,0.2,960.22,-45.82
+ORD-00477,2024-10-20,CUST-0039,Ethan Anderson,Consumer,Central,Illinois,Technology,Accessories,Wireless Mouse,5,0.1,152.17,15.84
+ORD-00499,2024-10-20,CUST-0065,Ava Lewis,Small Business,Central,Tennessee,Technology,Laptops,Business Laptop,8,0,6216.84,1308.89
+ORD-00341,2024-10-21,CUST-0081,Daniel Johnson,Consumer,East,Maryland,Furniture,Bookcases,Office Bookcase,1,0.05,196.44,29.29
+ORD-00387,2024-10-21,CUST-0239,Ethan Garcia,Small Business,South,Georgia,Technology,Accessories,Wireless Mouse,2,0.05,70.62,10.04
+ORD-00466,2024-10-21,CUST-0160,James Wilson,Home Office,West,Oregon,Furniture,Bookcases,Office Bookcase,7,0.1,1467.08,126.44
+ORD-00637,2024-10-21,CUST-0233,Isabella Lewis,Home Office,West,California,Technology,Accessories,Wireless Keyboard,4,0.05,203.32,31.07
+ORD-00909,2024-10-22,CUST-0039,Evelyn Thomas,Corporate,West,Oregon,Office Supplies,Paper,Printer Paper Case,2,0,85.24,24.04
+ORD-00556,2024-10-23,CUST-0127,Daniel Thompson,Corporate,East,Pennsylvania,Office Supplies,Binders,Premium Binder Pack,8,0,211.61,66.16
+ORD-00658,2024-10-23,CUST-0078,Mason Garcia,Consumer,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,1,0.1,269.51,26.12
+ORD-00357,2024-10-24,CUST-0085,James Wilson,Corporate,West,Oregon,Technology,Phones,Smartphone,2,0,1178.47,193.09
+ORD-00259,2024-10-25,CUST-0189,Isabella Jackson,Home Office,West,Washington,Technology,Accessories,Wireless Mouse,5,0.2,135.11,0.94
+ORD-00945,2024-10-26,CUST-0027,Liam White,Home Office,Central,Ohio,Office Supplies,Writing,Pen Set,4,0.1,72.65,16.68
+ORD-00134,2024-10-27,CUST-0080,Evelyn Harris,Home Office,South,Florida,Technology,Laptops,Business Laptop,4,0,3718.24,626.17
+ORD-00877,2024-10-28,CUST-0237,Mia Anderson,Corporate,Central,Tennessee,Furniture,Desks,Standing Desk,8,0.15,3884.06,100.7
+ORD-00021,2024-10-30,CUST-0015,Liam Clark,Home Office,West,Washington,Technology,Accessories,Wireless Mouse,4,0,145.09,38.79
+ORD-00538,2024-10-30,CUST-0204,Mia Brown,Small Business,Central,Tennessee,Technology,Laptops,Business Laptop,7,0.2,4535.53,-384.22
+ORD-00062,2024-10-31,CUST-0026,Mia Moore,Small Business,West,Colorado,Office Supplies,Storage,File Storage Box,7,0,231.51,73.25
+ORD-00921,2024-11-03,CUST-0140,Sophia Lewis,Home Office,West,California,Technology,Phones,Smartphone,7,0.05,4950.68,649.27
+ORD-00209,2024-11-04,CUST-0077,Benjamin Brown,Small Business,East,Pennsylvania,Technology,Monitors,27-inch Monitor,5,0.05,1222.81,170.97
+ORD-00503,2024-11-04,CUST-0175,Amelia Garcia,Small Business,West,Colorado,Office Supplies,Storage,File Storage Box,8,0.15,247.2,11.87
+ORD-00905,2024-11-04,CUST-0153,Benjamin Davis,Small Business,West,California,Office Supplies,Paper,Printer Paper Case,6,0.1,247.01,46.88
+ORD-00066,2024-11-07,CUST-0011,Henry Jackson,Small Business,South,Florida,Furniture,Bookcases,Office Bookcase,7,0,1492.24,204.79
+ORD-00090,2024-11-07,CUST-0117,James Robinson,Home Office,East,New York,Technology,Laptops,Business Laptop,8,0,6162.44,937.98
+ORD-00904,2024-11-07,CUST-0170,Benjamin Anderson,Small Business,East,New York,Technology,Phones,Smartphone,6,0.05,3751.23,444.86
+ORD-00444,2024-11-08,CUST-0091,James Thomas,Corporate,South,South Carolina,Office Supplies,Writing,Pen Set,6,0.05,101.19,26.97
+ORD-00057,2024-11-09,CUST-0138,Ethan Moore,Corporate,Central,Michigan,Technology,Monitors,27-inch Monitor,5,0,1277.61,218.16
+ORD-00666,2024-11-10,CUST-0007,Liam Thomas,Home Office,Central,Texas,Technology,Accessories,Wireless Keyboard,7,0.15,302.93,10.29
+ORD-00487,2024-11-11,CUST-0210,Amelia Jackson,Home Office,South,Florida,Technology,Accessories,Wireless Keyboard,7,0,400.99,93.7
+ORD-00038,2024-11-13,CUST-0122,Jack Brown,Home Office,South,South Carolina,Furniture,Desks,Standing Desk,4,0.2,1553.79,-63.54
+ORD-00293,2024-11-14,CUST-0223,Lucas Wilson,Small Business,South,Georgia,Technology,Monitors,27-inch Monitor,5,0.2,1134.27,-84.73
+ORD-00035,2024-11-17,CUST-0084,Amelia Thomas,Corporate,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,2,0.15,620.46,2.72
+ORD-00847,2024-11-17,CUST-0023,Olivia Miller,Home Office,West,California,Office Supplies,Storage,File Storage Box,3,0,88.67,23.29
+ORD-00971,2024-11-17,CUST-0113,Lucas Miller,Small Business,Central,Tennessee,Furniture,Chairs,Ergonomic Office Chair,2,0,621.98,83.75
+ORD-00242,2024-11-18,CUST-0154,Jack Thomas,Consumer,West,Arizona,Office Supplies,Binders,Premium Binder Pack,3,0,68.74,21.3
+ORD-00636,2024-11-19,CUST-0127,Jack White,Home Office,South,Florida,Furniture,Chairs,Ergonomic Office Chair,2,0,728.7,111.2
+ORD-00705,2024-11-20,CUST-0020,James Brown,Small Business,West,Arizona,Office Supplies,Storage,File Storage Box,5,0.05,134.77,27.04
+ORD-00276,2024-11-21,CUST-0191,Olivia Taylor,Small Business,South,South Carolina,Furniture,Chairs,Ergonomic Office Chair,4,0.15,1141.13,-93.17
+ORD-00434,2024-11-22,CUST-0188,Amelia Thompson,Consumer,Central,Tennessee,Technology,Laptops,Business Laptop,3,0,2589.9,374.36
+ORD-00592,2024-11-22,CUST-0166,Ethan Anderson,Corporate,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,2,0.15,38.15,6.75
+ORD-00253,2024-11-23,CUST-0231,Liam Miller,Corporate,East,New Jersey,Furniture,Bookcases,Office Bookcase,5,0.2,756.86,-22.37
+ORD-00586,2024-11-26,CUST-0128,Evelyn Jackson,Corporate,West,Oregon,Office Supplies,Binders,Premium Binder Pack,2,0.2,38.86,1.38
+ORD-00080,2024-11-28,CUST-0106,Luna Miller,Corporate,Central,Texas,Technology,Laptops,Business Laptop,1,0,830.27,134.49
+ORD-00731,2024-11-28,CUST-0045,Isabella Garcia,Consumer,Central,Texas,Furniture,Chairs,Ergonomic Office Chair,7,0.15,2184.42,-147.37
+ORD-00086,2024-11-30,CUST-0094,Evelyn Martinez,Small Business,East,New York,Technology,Monitors,27-inch Monitor,7,0,1831.06,437.41
+ORD-00234,2024-12-01,CUST-0118,James Brown,Home Office,Central,Michigan,Office Supplies,Storage,File Storage Box,1,0.2,27.88,1.33
+ORD-00876,2024-12-01,CUST-0071,Benjamin Moore,Consumer,South,South Carolina,Technology,Laptops,Business Laptop,3,0,2301.45,348.42
+ORD-00882,2024-12-02,CUST-0017,Amelia Thomas,Corporate,Central,Texas,Furniture,Bookcases,Office Bookcase,4,0.05,824.51,83.52
+ORD-00513,2024-12-03,CUST-0123,Henry Harris,Consumer,Central,Illinois,Furniture,Bookcases,Office Bookcase,7,0.1,1165.56,89.67
+ORD-00999,2024-12-04,CUST-0107,Ethan Wilson,Home Office,West,Colorado,Technology,Accessories,Wireless Mouse,3,0,107.27,21.55
+ORD-00077,2024-12-05,CUST-0004,Ava Martin,Corporate,East,Maryland,Furniture,Chairs,Ergonomic Office Chair,2,0.2,576.24,11.51
+ORD-00351,2024-12-05,CUST-0019,Luna Taylor,Small Business,South,Florida,Furniture,Bookcases,Office Bookcase,1,0,188.95,28.85
+ORD-00798,2024-12-05,CUST-0069,Noah Martin,Home Office,West,Colorado,Furniture,Bookcases,Office Bookcase,1,0,222.57,48.16
+ORD-00469,2024-12-07,CUST-0045,Mia Jackson,Small Business,South,North Carolina,Furniture,Desks,Standing Desk,6,0.05,3188.04,140.72
+ORD-00476,2024-12-07,CUST-0006,Luna Thomas,Corporate,South,Virginia,Technology,Phones,Smartphone,8,0,4720.76,883.25
+ORD-00827,2024-12-08,CUST-0160,Mason White,Consumer,East,New Jersey,Office Supplies,Writing,Pen Set,3,0.15,45.66,6.46
+ORD-00967,2024-12-10,CUST-0019,James Thompson,Home Office,East,Massachusetts,Technology,Phones,Smartphone,6,0.1,3665.72,361.18
+ORD-00518,2024-12-11,CUST-0118,Daniel Wilson,Corporate,South,Georgia,Technology,Laptops,Business Laptop,1,0.05,736.37,100.03
+ORD-00521,2024-12-11,CUST-0083,Mia Johnson,Corporate,South,South Carolina,Office Supplies,Binders,Premium Binder Pack,7,0,153.32,47.4
+ORD-00078,2024-12-12,CUST-0137,Amelia Jackson,Home Office,South,Florida,Technology,Monitors,27-inch Monitor,7,0.15,1502.21,106.84
+ORD-00018,2024-12-13,CUST-0047,Sophia Thompson,Corporate,South,Florida,Furniture,Bookcases,Office Bookcase,2,0,391.33,55.81
+ORD-00100,2024-12-13,CUST-0171,Sophia White,Corporate,West,Washington,Office Supplies,Binders,Premium Binder Pack,8,0.05,181.0,46.26
+ORD-00136,2024-12-13,CUST-0069,Olivia Martin,Consumer,West,Colorado,Office Supplies,Binders,Premium Binder Pack,3,0.05,72.97,20.49
+ORD-00060,2024-12-14,CUST-0017,Amelia Garcia,Consumer,West,Colorado,Office Supplies,Storage,File Storage Box,3,0,91.02,21.87
+ORD-00204,2024-12-14,CUST-0116,Benjamin Taylor,Small Business,West,Washington,Technology,Phones,Smartphone,7,0.2,3523.96,-160.61
+ORD-00685,2024-12-14,CUST-0199,Jack Lewis,Home Office,South,Florida,Technology,Accessories,Wireless Mouse,1,0.2,27.16,0.8
+ORD-00180,2024-12-18,CUST-0240,Benjamin Johnson,Small Business,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,2,0.1,49.61,6.46
+ORD-00107,2024-12-19,CUST-0171,Mason Johnson,Corporate,East,Maryland,Technology,Phones,Smartphone,7,0,4351.97,712.84
+ORD-00347,2024-12-20,CUST-0246,Liam Jackson,Home Office,South,North Carolina,Furniture,Desks,Standing Desk,8,0,4676.73,729.11
+ORD-00223,2024-12-22,CUST-0205,Mason Lewis,Consumer,West,Oregon,Technology,Phones,Smartphone,6,0.2,3131.3,-0.25
+ORD-00928,2024-12-22,CUST-0025,Noah Garcia,Home Office,Central,Tennessee,Furniture,Chairs,Ergonomic Office Chair,7,0,2029.6,252.33
+ORD-00468,2024-12-24,CUST-0018,Mason Thomas,Small Business,West,California,Office Supplies,Paper,Printer Paper Case,4,0,176.9,46.51
+ORD-00861,2024-12-26,CUST-0118,Henry White,Corporate,West,Colorado,Office Supplies,Paper,Printer Paper Case,7,0.1,302.44,67.51
+ORD-00825,2024-12-27,CUST-0184,Noah Garcia,Corporate,West,Colorado,Technology,Accessories,Wireless Keyboard,5,0,310.44,75.07
+ORD-00830,2024-12-27,CUST-0204,Isabella Wilson,Corporate,East,Pennsylvania,Office Supplies,Binders,Premium Binder Pack,6,0.05,136.04,32.17
+ORD-00843,2024-12-30,CUST-0129,Noah Martinez,Corporate,Central,Michigan,Furniture,Bookcases,Office Bookcase,3,0.15,568.79,34.62
+ORD-00729,2024-12-31,CUST-0055,Harper Taylor,Consumer,East,Pennsylvania,Technology,Phones,Smartphone,6,0,3447.79,417.45
+ORD-00004,2025-01-02,CUST-0032,Amelia Brown,Small Business,South,Florida,Technology,Phones,Smartphone,6,0.1,3339.49,262.96
+ORD-00360,2025-01-02,CUST-0216,Sophia Wilson,Corporate,West,Colorado,Office Supplies,Storage,File Storage Box,5,0.05,156.4,37.43
+ORD-00397,2025-01-03,CUST-0247,Jack Moore,Corporate,Central,Ohio,Office Supplies,Paper,Printer Paper Case,5,0,185.92,59.13
+ORD-00177,2025-01-05,CUST-0052,Luna Robinson,Corporate,West,Oregon,Furniture,Bookcases,Office Bookcase,2,0.1,344.09,28.05
+ORD-00013,2025-01-06,CUST-0022,Benjamin Brown,Corporate,West,California,Technology,Phones,Smartphone,5,0,2910.83,597.38
+ORD-00458,2025-01-06,CUST-0157,Ethan Harris,Home Office,South,Florida,Furniture,Desks,Standing Desk,2,0.1,1002.42,64.31
+ORD-00678,2025-01-06,CUST-0002,Mia Harris,Consumer,East,Pennsylvania,Office Supplies,Storage,File Storage Box,1,0,32.42,9.22
+ORD-00539,2025-01-07,CUST-0094,Ethan Robinson,Consumer,South,Virginia,Furniture,Desks,Standing Desk,1,0,511.37,53.02
+ORD-00644,2025-01-07,CUST-0107,Emma Taylor,Home Office,South,South Carolina,Furniture,Desks,Standing Desk,6,0.2,2289.33,-280.01
+ORD-00029,2025-01-08,CUST-0200,Daniel Martin,Corporate,East,New York,Technology,Monitors,27-inch Monitor,1,0,262.28,44.39
+ORD-00420,2025-01-10,CUST-0227,Emma Lewis,Small Business,Central,Ohio,Office Supplies,Writing,Pen Set,8,0,156.89,54.29
+ORD-00431,2025-01-10,CUST-0146,Mia Brown,Small Business,East,Pennsylvania,Technology,Monitors,27-inch Monitor,4,0,1063.09,224.68
+ORD-00495,2025-01-10,CUST-0124,Olivia Wilson,Small Business,West,Oregon,Furniture,Chairs,Ergonomic Office Chair,1,0,335.86,40.37
+ORD-00542,2025-01-11,CUST-0230,Ethan Thomas,Consumer,Central,Michigan,Furniture,Chairs,Ergonomic Office Chair,2,0,728.53,85.39
+ORD-00828,2025-01-12,CUST-0221,Ava Wilson,Small Business,Central,Michigan,Furniture,Desks,Standing Desk,5,0.2,2339.76,-198.52
+ORD-00698,2025-01-13,CUST-0160,Henry Brown,Consumer,Central,Michigan,Technology,Accessories,Wireless Mouse,6,0.15,165.34,17.28
+ORD-00969,2025-01-13,CUST-0072,Noah Taylor,Small Business,South,Virginia,Furniture,Chairs,Ergonomic Office Chair,8,0.05,2387.3,309.7
+ORD-00374,2025-01-14,CUST-0203,Amelia White,Consumer,West,Oregon,Office Supplies,Binders,Premium Binder Pack,1,0.15,20.87,4.0
+ORD-00416,2025-01-15,CUST-0239,Liam Johnson,Small Business,West,Oregon,Technology,Accessories,Wireless Keyboard,2,0,101.48,23.92
+ORD-00297,2025-01-16,CUST-0142,James White,Corporate,South,North Carolina,Technology,Accessories,Wireless Mouse,8,0.1,252.11,26.49
+ORD-00548,2025-01-16,CUST-0007,Amelia Garcia,Corporate,Central,Ohio,Technology,Accessories,Wireless Keyboard,8,0.1,452.78,35.73
+ORD-00553,2025-01-16,CUST-0144,Olivia Moore,Home Office,West,Arizona,Office Supplies,Binders,Premium Binder Pack,1,0,23.36,7.01
+ORD-00157,2025-01-17,CUST-0131,Amelia Martinez,Consumer,East,New York,Office Supplies,Binders,Premium Binder Pack,6,0.1,146.9,22.42
+ORD-00702,2025-01-17,CUST-0164,Luna Johnson,Corporate,East,Massachusetts,Furniture,Bookcases,Office Bookcase,8,0.15,1625.14,31.96
+ORD-00279,2025-01-19,CUST-0176,Lucas Miller,Home Office,West,Arizona,Office Supplies,Writing,Pen Set,2,0.2,29.07,2.18
+ORD-00376,2025-01-19,CUST-0110,Luna Anderson,Small Business,South,Virginia,Technology,Laptops,Business Laptop,4,0.15,3170.79,-22.84
+ORD-00472,2025-01-19,CUST-0201,Mason Jackson,Consumer,Central,Texas,Office Supplies,Paper,Printer Paper Case,3,0.1,118.34,18.85
+ORD-00007,2025-01-23,CUST-0197,Liam Taylor,Consumer,East,Pennsylvania,Office Supplies,Storage,File Storage Box,5,0.15,144.95,17.31
+ORD-00036,2025-01-23,CUST-0078,Mason Moore,Home Office,East,New Jersey,Furniture,Desks,Standing Desk,3,0.1,1451.26,102.56
+ORD-00194,2025-01-23,CUST-0196,Benjamin Garcia,Home Office,East,Massachusetts,Technology,Accessories,Wireless Mouse,4,0.05,136.81,22.17
+ORD-00443,2025-01-24,CUST-0051,Evelyn Thompson,Consumer,Central,Michigan,Technology,Accessories,Wireless Mouse,2,0,70.76,14.71
+ORD-00804,2025-01-24,CUST-0087,Henry Garcia,Consumer,East,New York,Technology,Laptops,Business Laptop,7,0.1,5155.47,220.81
+ORD-00862,2025-01-25,CUST-0180,Jack Davis,Consumer,East,Maryland,Office Supplies,Binders,Premium Binder Pack,5,0.2,101.58,7.66
+ORD-00446,2025-01-26,CUST-0233,Jack Jackson,Home Office,East,New York,Furniture,Bookcases,Office Bookcase,4,0.05,754.03,130.27
+ORD-00510,2025-01-26,CUST-0046,Harper Brown,Home Office,South,Georgia,Technology,Laptops,Business Laptop,7,0,6836.01,1457.11
+ORD-00772,2025-01-26,CUST-0022,Noah Garcia,Corporate,South,Florida,Furniture,Desks,Standing Desk,5,0.15,2334.56,-98.66
+ORD-00043,2025-01-27,CUST-0120,Henry Johnson,Corporate,East,Pennsylvania,Technology,Accessories,Wireless Mouse,3,0.15,83.7,6.06
+ORD-00252,2025-01-27,CUST-0234,Henry Taylor,Small Business,South,Florida,Office Supplies,Paper,Printer Paper Case,3,0,142.56,41.31
+ORD-00083,2025-01-28,CUST-0180,Mason Smith,Home Office,West,Arizona,Technology,Accessories,Wireless Mouse,8,0,264.33,66.54
+ORD-00153,2025-01-28,CUST-0240,Luna Jackson,Corporate,South,North Carolina,Technology,Monitors,27-inch Monitor,7,0,2234.25,521.06
+ORD-00203,2025-01-28,CUST-0250,James Johnson,Consumer,West,Oregon,Office Supplies,Paper,Printer Paper Case,3,0.2,115.61,4.41
+ORD-00948,2025-01-28,CUST-0053,Amelia Miller,Home Office,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,8,0,2893.67,329.87
+ORD-00668,2025-01-29,CUST-0124,Emma Martin,Corporate,West,Oregon,Office Supplies,Writing,Pen Set,2,0,32.27,10.22
+ORD-00744,2025-01-29,CUST-0093,Emma Wilson,Small Business,Central,Texas,Furniture,Desks,Standing Desk,7,0.15,2928.88,58.39
+ORD-00119,2025-01-30,CUST-0224,Ava Jackson,Consumer,South,Virginia,Furniture,Desks,Standing Desk,5,0,2796.06,507.68
+ORD-00118,2025-01-31,CUST-0166,Isabella Brown,Small Business,Central,Ohio,Technology,Monitors,27-inch Monitor,7,0.2,1523.09,-1.09
+ORD-00335,2025-01-31,CUST-0178,Lucas Anderson,Home Office,East,Pennsylvania,Technology,Phones,Smartphone,6,0.1,3924.09,273.47
+ORD-00206,2025-02-02,CUST-0093,Sophia Davis,Corporate,West,Washington,Furniture,Bookcases,Office Bookcase,6,0,1145.05,180.62
+ORD-00650,2025-02-03,CUST-0142,Mason Martinez,Small Business,South,Virginia,Office Supplies,Paper,Printer Paper Case,3,0.1,130.16,19.7
+ORD-00247,2025-02-04,CUST-0015,Lucas Brown,Home Office,East,Maryland,Office Supplies,Paper,Printer Paper Case,2,0,89.77,28.38
+ORD-00867,2025-02-04,CUST-0148,Henry Wilson,Home Office,West,Washington,Office Supplies,Writing,Pen Set,4,0.1,68.3,15.19
+ORD-00480,2025-02-05,CUST-0180,Harper Lewis,Small Business,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,3,0.15,63.71,10.32
+ORD-00767,2025-02-05,CUST-0101,Olivia Martinez,Small Business,East,New York,Office Supplies,Writing,Pen Set,6,0.05,109.07,30.37
+ORD-00796,2025-02-08,CUST-0069,Noah Thompson,Home Office,Central,Illinois,Office Supplies,Storage,File Storage Box,6,0,187.86,52.28
+ORD-00429,2025-02-10,CUST-0035,Mason Smith,Small Business,Central,Michigan,Office Supplies,Storage,File Storage Box,1,0.15,24.19,2.08
+ORD-00455,2025-02-11,CUST-0157,Liam Martinez,Corporate,East,Massachusetts,Office Supplies,Storage,File Storage Box,5,0.2,141.24,7.44
+ORD-00739,2025-02-11,CUST-0111,Ava Garcia,Consumer,West,California,Office Supplies,Paper,Printer Paper Case,7,0,296.09,87.3
+ORD-00722,2025-02-12,CUST-0035,Isabella Thompson,Home Office,West,Arizona,Furniture,Bookcases,Office Bookcase,4,0.05,710.38,103.93
+ORD-00069,2025-02-14,CUST-0198,Amelia Martinez,Consumer,West,Arizona,Furniture,Desks,Standing Desk,1,0.05,446.47,28.07
+ORD-00604,2025-02-14,CUST-0064,Evelyn Wilson,Home Office,West,Washington,Technology,Laptops,Business Laptop,4,0.15,2781.62,-60.77
+ORD-00988,2025-02-14,CUST-0019,Evelyn Martin,Consumer,South,Florida,Furniture,Desks,Standing Desk,3,0.2,1347.77,-114.23
+ORD-00588,2025-02-15,CUST-0025,Luna Jackson,Small Business,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,4,0.1,1264.28,127.01
+ORD-00346,2025-02-17,CUST-0093,Mason Moore,Home Office,West,Oregon,Office Supplies,Writing,Pen Set,2,0,33.83,10.48
+ORD-00056,2025-02-18,CUST-0089,Henry Robinson,Small Business,South,Georgia,Technology,Accessories,Wireless Mouse,4,0,148.3,37.05
+ORD-00631,2025-02-18,CUST-0173,Amelia Thomas,Consumer,West,Colorado,Furniture,Bookcases,Office Bookcase,8,0,1758.95,285.77
+ORD-00571,2025-02-21,CUST-0035,Benjamin White,Small Business,East,Maryland,Technology,Accessories,Wireless Mouse,2,0.2,64.17,2.25
+ORD-00994,2025-02-25,CUST-0145,Jack Martin,Consumer,South,Florida,Technology,Monitors,27-inch Monitor,5,0.15,1155.76,64.0
+ORD-00667,2025-02-26,CUST-0052,Lucas Lewis,Corporate,South,Georgia,Technology,Accessories,Wireless Keyboard,6,0,323.86,61.82
+ORD-00646,2025-02-27,CUST-0242,Emma Thompson,Corporate,East,Pennsylvania,Office Supplies,Binders,Premium Binder Pack,7,0.05,181.46,48.25
+ORD-00127,2025-02-28,CUST-0096,Lucas Smith,Small Business,West,Arizona,Technology,Laptops,Business Laptop,1,0.05,820.05,149.6
+ORD-00742,2025-03-01,CUST-0151,Olivia Martin,Consumer,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,7,0.15,140.05,21.52
+ORD-00629,2025-03-02,CUST-0160,Sophia Jackson,Corporate,West,California,Technology,Phones,Smartphone,5,0,3375.28,608.64
+ORD-00914,2025-03-02,CUST-0119,Daniel Miller,Home Office,East,Massachusetts,Technology,Accessories,Wireless Keyboard,4,0,211.72,55.78
+ORD-00130,2025-03-05,CUST-0005,Evelyn Clark,Corporate,South,North Carolina,Technology,Accessories,Wireless Mouse,8,0,254.78,64.64
+ORD-00811,2025-03-05,CUST-0012,Luna Johnson,Corporate,West,California,Office Supplies,Storage,File Storage Box,1,0,33.34,8.06
+ORD-00096,2025-03-07,CUST-0152,Noah Thompson,Corporate,South,South Carolina,Furniture,Bookcases,Office Bookcase,2,0.15,320.29,0.72
+ORD-00659,2025-03-07,CUST-0126,Emma Davis,Small Business,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,1,0,364.01,66.88
+ORD-00246,2025-03-09,CUST-0022,Mason Brown,Corporate,Central,Tennessee,Office Supplies,Binders,Premium Binder Pack,7,0,176.89,48.42
+ORD-00494,2025-03-10,CUST-0148,Benjamin Taylor,Small Business,East,New Jersey,Office Supplies,Writing,Pen Set,8,0.05,133.51,38.56
+ORD-00951,2025-03-10,CUST-0061,Ava Smith,Small Business,Central,Tennessee,Office Supplies,Storage,File Storage Box,5,0,182.29,58.21
+ORD-00711,2025-03-11,CUST-0006,Luna Johnson,Corporate,Central,Illinois,Office Supplies,Binders,Premium Binder Pack,7,0.2,146.53,9.5
+ORD-00220,2025-03-12,CUST-0169,Henry Harris,Consumer,East,Massachusetts,Office Supplies,Writing,Pen Set,8,0,157.74,46.81
+ORD-00221,2025-03-15,CUST-0208,Olivia Clark,Consumer,East,New Jersey,Furniture,Chairs,Ergonomic Office Chair,7,0,2434.88,432.7
+ORD-00881,2025-03-15,CUST-0038,Isabella Davis,Consumer,South,South Carolina,Office Supplies,Paper,Printer Paper Case,3,0,119.23,32.6
+ORD-00099,2025-03-16,CUST-0197,Daniel Moore,Home Office,West,Oregon,Furniture,Chairs,Ergonomic Office Chair,2,0.2,556.13,-52.14
+ORD-00211,2025-03-16,CUST-0081,Ethan Harris,Small Business,Central,Michigan,Office Supplies,Paper,Printer Paper Case,3,0,121.79,31.43
+ORD-00719,2025-03-18,CUST-0101,Liam Taylor,Corporate,East,Maryland,Furniture,Bookcases,Office Bookcase,8,0.05,1796.98,243.8
+ORD-00436,2025-03-20,CUST-0167,Luna Moore,Corporate,South,Florida,Office Supplies,Writing,Pen Set,3,0.2,39.59,3.83
+ORD-00759,2025-03-21,CUST-0072,Lucas Anderson,Home Office,East,New York,Technology,Phones,Smartphone,1,0,735.04,113.57
+ORD-00068,2025-03-22,CUST-0027,Ethan Jackson,Home Office,Central,Illinois,Furniture,Chairs,Ergonomic Office Chair,8,0,2617.95,363.62
+ORD-00502,2025-03-26,CUST-0068,Noah Johnson,Corporate,West,Washington,Furniture,Desks,Standing Desk,3,0,1616.15,169.52
+ORD-00947,2025-03-26,CUST-0151,Amelia Thomas,Consumer,South,South Carolina,Furniture,Bookcases,Office Bookcase,8,0,1488.06,229.65
+ORD-00037,2025-03-28,CUST-0044,Olivia Thomas,Small Business,Central,Michigan,Office Supplies,Storage,File Storage Box,4,0.1,116.09,19.45
+ORD-00178,2025-03-28,CUST-0131,Harper Johnson,Home Office,East,Massachusetts,Office Supplies,Writing,Pen Set,2,0.15,28.63,3.31
+ORD-00769,2025-03-28,CUST-0051,Emma White,Consumer,East,Maryland,Technology,Accessories,Wireless Keyboard,8,0,493.79,124.63
+ORD-00328,2025-03-30,CUST-0128,Emma Davis,Home Office,East,New York,Office Supplies,Storage,File Storage Box,8,0,284.49,68.47
+ORD-00474,2025-03-30,CUST-0237,Benjamin Martinez,Small Business,South,South Carolina,Technology,Phones,Smartphone,1,0.2,525.37,-43.55
+ORD-00544,2025-03-30,CUST-0214,Evelyn Jackson,Home Office,West,Arizona,Office Supplies,Binders,Premium Binder Pack,1,0,22.35,7.42
+ORD-00756,2025-03-30,CUST-0090,Henry Garcia,Consumer,South,Georgia,Furniture,Desks,Standing Desk,4,0.1,1892.26,89.13
+ORD-00704,2025-03-31,CUST-0110,Harper Thompson,Home Office,East,New York,Technology,Monitors,27-inch Monitor,6,0,1743.29,376.38
+ORD-00142,2025-04-01,CUST-0032,Ava Brown,Home Office,Central,Ohio,Furniture,Bookcases,Office Bookcase,4,0.1,723.57,28.38
+ORD-00489,2025-04-02,CUST-0234,Mason Martin,Small Business,West,Oregon,Furniture,Chairs,Ergonomic Office Chair,4,0,1383.21,223.15
+ORD-00114,2025-04-04,CUST-0121,Harper Thomas,Small Business,West,Oregon,Furniture,Chairs,Ergonomic Office Chair,6,0.2,1781.77,-86.16
+ORD-00207,2025-04-04,CUST-0154,Isabella Harris,Consumer,South,South Carolina,Office Supplies,Binders,Premium Binder Pack,7,0,149.03,40.0
+ORD-00371,2025-04-04,CUST-0037,Luna Miller,Small Business,Central,Texas,Technology,Accessories,Wireless Mouse,8,0.2,226.25,11.46
+ORD-00661,2025-04-04,CUST-0160,Henry Harris,Corporate,West,Colorado,Furniture,Desks,Standing Desk,3,0.2,1343.5,-19.47
+ORD-00859,2025-04-05,CUST-0140,Ethan Lewis,Home Office,West,Washington,Furniture,Desks,Standing Desk,2,0,976.59,134.59
+ORD-00015,2025-04-07,CUST-0059,Luna Taylor,Consumer,Central,Michigan,Office Supplies,Writing,Pen Set,2,0,33.86,11.27
+ORD-00457,2025-04-09,CUST-0183,Ethan Davis,Consumer,West,California,Technology,Accessories,Wireless Keyboard,4,0.05,189.01,35.66
+ORD-00171,2025-04-10,CUST-0029,Isabella Miller,Home Office,South,Georgia,Technology,Monitors,27-inch Monitor,8,0,2485.92,440.89
+ORD-00218,2025-04-11,CUST-0179,Harper Jackson,Consumer,Central,Ohio,Office Supplies,Paper,Printer Paper Case,4,0.1,152.77,26.1
+ORD-00179,2025-04-12,CUST-0102,Sophia Smith,Corporate,East,Maryland,Office Supplies,Binders,Premium Binder Pack,1,0.1,21.7,4.27
+ORD-00520,2025-04-12,CUST-0128,Jack Lewis,Corporate,South,Georgia,Technology,Phones,Smartphone,3,0.2,1621.75,-208.5
+ORD-00754,2025-04-12,CUST-0032,Evelyn Anderson,Corporate,Central,Texas,Technology,Laptops,Business Laptop,7,0.15,5591.39,-340.75
+ORD-00024,2025-04-14,CUST-0090,Olivia Taylor,Small Business,Central,Texas,Technology,Laptops,Business Laptop,2,0,1742.77,264.76
+ORD-00097,2025-04-14,CUST-0028,Benjamin Thompson,Consumer,South,Virginia,Technology,Monitors,27-inch Monitor,1,0,321.89,63.85
+ORD-00990,2025-04-14,CUST-0075,Henry Brown,Corporate,South,Georgia,Technology,Monitors,27-inch Monitor,4,0,1065.52,215.69
+ORD-00110,2025-04-15,CUST-0164,Henry Thomas,Consumer,South,Florida,Technology,Laptops,Business Laptop,2,0.2,1311.76,-46.06
+ORD-00674,2025-04-15,CUST-0156,Benjamin Smith,Consumer,Central,Ohio,Technology,Accessories,Wireless Mouse,6,0,236.62,66.96
+ORD-00833,2025-04-16,CUST-0063,Mia Taylor,Consumer,Central,Illinois,Technology,Monitors,27-inch Monitor,3,0.2,746.18,-25.71
+ORD-00217,2025-04-19,CUST-0236,Olivia Davis,Corporate,West,Arizona,Office Supplies,Binders,Premium Binder Pack,3,0,82.76,23.72
+ORD-00320,2025-04-20,CUST-0093,Isabella Martin,Consumer,West,Arizona,Technology,Monitors,27-inch Monitor,1,0,307.88,72.88
+ORD-00628,2025-04-20,CUST-0030,Harper Miller,Corporate,West,Colorado,Technology,Phones,Smartphone,5,0,3083.64,509.76
+ORD-00192,2025-04-22,CUST-0026,Benjamin Jackson,Corporate,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,6,0,136.89,41.72
+ORD-00154,2025-04-23,CUST-0118,Lucas Moore,Small Business,East,New Jersey,Office Supplies,Writing,Pen Set,8,0,146.06,46.07
+ORD-00419,2025-04-24,CUST-0018,Evelyn Wilson,Home Office,Central,Ohio,Furniture,Bookcases,Office Bookcase,5,0.2,927.75,-83.34
+ORD-00886,2025-04-26,CUST-0193,James Harris,Consumer,Central,Texas,Technology,Phones,Smartphone,2,0.2,1140.55,-116.42
+ORD-00380,2025-04-27,CUST-0010,Amelia Harris,Small Business,South,North Carolina,Technology,Accessories,Wireless Keyboard,7,0,345.46,64.67
+ORD-00362,2025-04-28,CUST-0220,Mason Wilson,Home Office,Central,Tennessee,Office Supplies,Writing,Pen Set,3,0,53.24,17.73
+ORD-00657,2025-04-29,CUST-0031,Jack Martin,Consumer,South,South Carolina,Office Supplies,Storage,File Storage Box,1,0.15,25.09,3.58
+ORD-00451,2025-04-30,CUST-0004,Sophia Martin,Corporate,East,New Jersey,Office Supplies,Storage,File Storage Box,3,0,89.49,26.74
+ORD-00570,2025-05-01,CUST-0047,James Harris,Home Office,East,Maryland,Furniture,Bookcases,Office Bookcase,6,0.15,1112.91,63.02
+ORD-00589,2025-05-01,CUST-0130,Mason Martin,Small Business,South,Virginia,Office Supplies,Writing,Pen Set,7,0,122.7,43.45
+ORD-00200,2025-05-02,CUST-0112,Isabella Clark,Consumer,West,Colorado,Office Supplies,Writing,Pen Set,1,0.15,13.5,2.56
+ORD-00287,2025-05-02,CUST-0147,Evelyn Clark,Corporate,West,Oregon,Technology,Accessories,Wireless Mouse,5,0,172.65,35.07
+ORD-00655,2025-05-02,CUST-0144,Evelyn Harris,Small Business,South,Florida,Technology,Accessories,Wireless Keyboard,4,0.05,188.33,29.37
+ORD-00375,2025-05-03,CUST-0066,Mia Smith,Consumer,West,Washington,Technology,Monitors,27-inch Monitor,4,0.2,808.76,-18.49
+ORD-00844,2025-05-03,CUST-0161,Olivia Taylor,Corporate,South,Virginia,Office Supplies,Binders,Premium Binder Pack,1,0,22.16,5.92
+ORD-00751,2025-05-04,CUST-0245,Emma Clark,Consumer,South,Virginia,Technology,Accessories,Wireless Mouse,8,0.15,258.31,26.63
+ORD-00267,2025-05-05,CUST-0227,Evelyn Taylor,Consumer,West,Colorado,Office Supplies,Writing,Pen Set,1,0,17.2,5.12
+ORD-00550,2025-05-05,CUST-0159,Lucas Thompson,Small Business,Central,Texas,Furniture,Bookcases,Office Bookcase,1,0,223.24,29.52
+ORD-00338,2025-05-06,CUST-0217,Henry Smith,Consumer,South,Georgia,Office Supplies,Writing,Pen Set,7,0.15,115.87,12.75
+ORD-00660,2025-05-07,CUST-0214,Jack Wilson,Corporate,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,5,0.1,108.23,20.96
+ORD-00690,2025-05-07,CUST-0080,Luna Martin,Small Business,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,8,0,181.57,48.2
+ORD-00639,2025-05-09,CUST-0107,Benjamin Thomas,Corporate,Central,Texas,Furniture,Desks,Standing Desk,3,0,1456.82,158.91
+ORD-00991,2025-05-09,CUST-0128,Amelia White,Consumer,West,Oregon,Technology,Monitors,27-inch Monitor,5,0.15,1218.52,23.8
+ORD-00927,2025-05-10,CUST-0130,Evelyn Anderson,Corporate,West,California,Furniture,Desks,Standing Desk,7,0.05,3608.69,427.1
+ORD-00042,2025-05-11,CUST-0086,Isabella Robinson,Consumer,East,Massachusetts,Office Supplies,Writing,Pen Set,4,0,71.91,21.65
+ORD-00071,2025-05-11,CUST-0041,Mason Robinson,Consumer,Central,Michigan,Furniture,Bookcases,Office Bookcase,2,0,479.95,72.73
+ORD-00801,2025-05-12,CUST-0048,Lucas Anderson,Consumer,West,Arizona,Technology,Monitors,27-inch Monitor,2,0.2,446.13,-3.78
+ORD-00533,2025-05-15,CUST-0110,Lucas Taylor,Small Business,South,Florida,Office Supplies,Writing,Pen Set,4,0.1,65.31,11.33
+ORD-00903,2025-05-15,CUST-0075,Lucas Martinez,Corporate,West,Oregon,Technology,Laptops,Business Laptop,4,0.05,2937.8,371.59
+ORD-00424,2025-05-18,CUST-0241,Henry White,Consumer,South,South Carolina,Furniture,Desks,Standing Desk,2,0.05,1083.12,117.41
+ORD-00795,2025-05-18,CUST-0234,Benjamin Smith,Corporate,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,4,0,98.19,29.16
+ORD-00332,2025-05-19,CUST-0157,Mia Moore,Consumer,South,North Carolina,Technology,Accessories,Wireless Keyboard,3,0.2,141.71,-8.07
+ORD-00572,2025-05-20,CUST-0250,Harper Taylor,Home Office,South,North Carolina,Office Supplies,Paper,Printer Paper Case,2,0.05,76.33,16.03
+ORD-00679,2025-05-20,CUST-0155,Luna Miller,Consumer,Central,Tennessee,Office Supplies,Writing,Pen Set,3,0.1,45.31,9.79
+ORD-00054,2025-05-21,CUST-0072,Jack Anderson,Consumer,West,Arizona,Technology,Laptops,Business Laptop,6,0,5159.36,842.27
+ORD-00155,2025-05-21,CUST-0226,Sophia White,Home Office,South,North Carolina,Technology,Monitors,27-inch Monitor,8,0,2295.79,456.37
+ORD-00235,2025-05-21,CUST-0145,Benjamin Jackson,Consumer,East,New Jersey,Technology,Accessories,Wireless Mouse,5,0,193.14,48.67
+ORD-00381,2025-05-21,CUST-0074,Mia Johnson,Corporate,South,South Carolina,Furniture,Desks,Standing Desk,8,0,3887.36,669.99
+ORD-00582,2025-05-21,CUST-0016,Emma Clark,Consumer,South,Florida,Technology,Monitors,27-inch Monitor,7,0.1,1874.52,111.74
+ORD-00819,2025-05-22,CUST-0126,Ethan Thomas,Consumer,East,New Jersey,Technology,Phones,Smartphone,3,0.05,1722.75,122.53
+ORD-00473,2025-05-23,CUST-0078,Ethan Davis,Small Business,Central,Michigan,Technology,Phones,Smartphone,4,0,2605.24,363.31
+ORD-00303,2025-05-24,CUST-0150,Luna Moore,Small Business,East,New York,Furniture,Desks,Standing Desk,5,0,2924.65,486.39
+ORD-00831,2025-05-24,CUST-0184,Henry Martinez,Corporate,West,Colorado,Office Supplies,Writing,Pen Set,8,0.1,132.81,25.73
+ORD-00764,2025-05-26,CUST-0206,Liam Lewis,Small Business,East,Massachusetts,Technology,Accessories,Wireless Mouse,8,0,291.87,75.85
+ORD-00800,2025-05-27,CUST-0110,Jack Smith,Home Office,East,Pennsylvania,Office Supplies,Paper,Printer Paper Case,1,0.2,35.78,5.31
+ORD-00363,2025-05-29,CUST-0176,Ethan Martinez,Corporate,South,Florida,Office Supplies,Paper,Printer Paper Case,1,0.15,33.72,4.1
+ORD-00749,2025-05-29,CUST-0192,Ethan Moore,Small Business,East,New Jersey,Technology,Accessories,Wireless Keyboard,2,0.05,107.96,16.38
+ORD-00012,2025-06-03,CUST-0237,Evelyn Smith,Small Business,South,Georgia,Furniture,Desks,Standing Desk,4,0,2040.39,379.14
+ORD-00379,2025-06-04,CUST-0181,Liam Miller,Home Office,East,New York,Technology,Accessories,Wireless Mouse,7,0.2,190.39,6.98
+ORD-00370,2025-06-08,CUST-0133,Amelia Lewis,Consumer,East,Pennsylvania,Furniture,Desks,Standing Desk,1,0.1,430.4,40.04
+ORD-00478,2025-06-10,CUST-0242,Mason Clark,Corporate,South,Virginia,Office Supplies,Writing,Pen Set,2,0,36.95,11.25
+ORD-00367,2025-06-12,CUST-0228,Jack Smith,Corporate,Central,Michigan,Technology,Accessories,Wireless Mouse,7,0,269.66,73.17
+ORD-00709,2025-06-12,CUST-0217,Mia Martin,Home Office,East,New Jersey,Technology,Accessories,Wireless Mouse,8,0.15,261.77,14.94
+ORD-00845,2025-06-12,CUST-0220,Henry Johnson,Home Office,East,Pennsylvania,Office Supplies,Writing,Pen Set,6,0.05,112.04,29.38
+ORD-00249,2025-06-13,CUST-0188,Noah Smith,Small Business,West,Arizona,Office Supplies,Writing,Pen Set,5,0,88.24,31.64
+ORD-00868,2025-06-13,CUST-0031,Luna Harris,Small Business,East,New Jersey,Office Supplies,Paper,Printer Paper Case,3,0.05,112.8,21.44
+ORD-00392,2025-06-14,CUST-0149,Noah Jackson,Small Business,West,California,Furniture,Bookcases,Office Bookcase,8,0,1791.03,266.81
+ORD-00422,2025-06-19,CUST-0052,Noah Garcia,Corporate,Central,Texas,Technology,Phones,Smartphone,2,0,1437.15,285.44
+ORD-00496,2025-06-19,CUST-0020,Daniel Clark,Small Business,West,Oregon,Technology,Phones,Smartphone,2,0,1309.83,270.4
+ORD-00198,2025-06-20,CUST-0069,Amelia Brown,Small Business,East,New York,Technology,Phones,Smartphone,3,0,1817.05,351.36
+ORD-00915,2025-06-23,CUST-0120,James Martin,Home Office,West,California,Technology,Accessories,Wireless Keyboard,8,0.15,360.75,14.43
+ORD-00125,2025-06-24,CUST-0065,Liam Garcia,Small Business,Central,Michigan,Office Supplies,Writing,Pen Set,7,0,138.67,40.55
+ORD-00836,2025-06-24,CUST-0178,Emma Thomas,Consumer,West,Washington,Furniture,Bookcases,Office Bookcase,5,0.05,988.63,148.5
+ORD-00257,2025-06-26,CUST-0183,Sophia Brown,Consumer,Central,Texas,Technology,Accessories,Wireless Mouse,4,0.05,134.71,33.4
+ORD-00105,2025-06-27,CUST-0185,Isabella Clark,Consumer,South,North Carolina,Furniture,Bookcases,Office Bookcase,4,0.05,792.7,89.64
+ORD-00979,2025-06-27,CUST-0126,Amelia Lewis,Small Business,East,Massachusetts,Office Supplies,Storage,File Storage Box,3,0,106.27,30.83
+ORD-00197,2025-06-28,CUST-0074,Emma Martinez,Home Office,West,California,Technology,Laptops,Business Laptop,7,0,5262.87,990.56
+ORD-00725,2025-06-29,CUST-0165,Noah Harris,Small Business,East,New York,Furniture,Desks,Standing Desk,4,0.05,2110.61,227.82
+ORD-00812,2025-06-29,CUST-0100,Amelia Lewis,Small Business,West,Colorado,Furniture,Desks,Standing Desk,2,0,1038.12,156.37
+ORD-00354,2025-06-30,CUST-0076,Ava Thomas,Small Business,South,Florida,Technology,Accessories,Wireless Keyboard,4,0,237.96,61.03
+ORD-00406,2025-07-01,CUST-0003,Henry Thomas,Corporate,Central,Ohio,Office Supplies,Storage,File Storage Box,1,0.15,30.71,2.08
+ORD-00936,2025-07-01,CUST-0159,Liam Robinson,Consumer,East,Massachusetts,Technology,Phones,Smartphone,4,0.2,2121.17,-180.83
+ORD-00940,2025-07-01,CUST-0100,Amelia Wilson,Home Office,South,North Carolina,Technology,Accessories,Wireless Mouse,7,0.15,221.7,27.0
+ORD-00984,2025-07-02,CUST-0085,Ava Lewis,Consumer,East,Maryland,Technology,Accessories,Wireless Keyboard,4,0.2,184.59,-7.12
+ORD-00048,2025-07-06,CUST-0011,Emma Taylor,Corporate,West,California,Furniture,Bookcases,Office Bookcase,1,0,197.51,42.69
+ORD-00348,2025-07-07,CUST-0206,Evelyn Thompson,Home Office,South,Florida,Technology,Monitors,27-inch Monitor,5,0,1576.48,305.44
+ORD-00670,2025-07-07,CUST-0143,Harper Johnson,Consumer,East,Pennsylvania,Office Supplies,Paper,Printer Paper Case,3,0.2,95.38,4.98
+ORD-00935,2025-07-07,CUST-0065,Amelia White,Consumer,East,New York,Furniture,Chairs,Ergonomic Office Chair,6,0,1833.95,353.96
+ORD-00663,2025-07-08,CUST-0005,Noah Robinson,Corporate,South,South Carolina,Furniture,Chairs,Ergonomic Office Chair,1,0.1,298.61,9.02
+ORD-00949,2025-07-08,CUST-0213,Sophia Clark,Corporate,South,Georgia,Technology,Laptops,Business Laptop,6,0,5741.14,977.48
+ORD-00268,2025-07-11,CUST-0047,Emma Jackson,Corporate,West,Arizona,Office Supplies,Storage,File Storage Box,8,0,288.36,76.4
+ORD-00824,2025-07-11,CUST-0234,Lucas Smith,Corporate,South,North Carolina,Technology,Phones,Smartphone,5,0,3308.88,439.3
+ORD-00137,2025-07-12,CUST-0115,Jack Martin,Corporate,West,Oregon,Technology,Accessories,Wireless Keyboard,5,0,249.62,51.57
+ORD-00133,2025-07-13,CUST-0179,Benjamin Miller,Corporate,East,New York,Office Supplies,Paper,Printer Paper Case,6,0.2,212.4,8.92
+ORD-00485,2025-07-15,CUST-0152,Henry Martin,Small Business,East,Maryland,Technology,Accessories,Wireless Mouse,3,0.05,98.12,21.88
+ORD-00723,2025-07-15,CUST-0216,Ethan Miller,Consumer,West,California,Technology,Phones,Smartphone,4,0.15,2511.68,153.75
+ORD-00758,2025-07-15,CUST-0139,Lucas Taylor,Corporate,South,Georgia,Furniture,Desks,Standing Desk,8,0,4667.65,669.32
+ORD-00329,2025-07-16,CUST-0078,Evelyn Robinson,Corporate,West,California,Office Supplies,Writing,Pen Set,1,0.2,13.03,1.34
+ORD-00383,2025-07-16,CUST-0247,Sophia Taylor,Corporate,South,North Carolina,Technology,Phones,Smartphone,5,0.15,3049.9,-155.61
+ORD-00263,2025-07-17,CUST-0004,Liam Taylor,Corporate,West,Oregon,Furniture,Bookcases,Office Bookcase,4,0,843.99,120.34
+ORD-00345,2025-07-17,CUST-0048,Evelyn Brown,Corporate,Central,Michigan,Furniture,Chairs,Ergonomic Office Chair,6,0,2128.79,276.31
+ORD-00075,2025-07-19,CUST-0062,Luna Harris,Corporate,West,Arizona,Office Supplies,Paper,Printer Paper Case,7,0.05,316.13,82.88
+ORD-00600,2025-07-19,CUST-0176,Noah Robinson,Corporate,South,South Carolina,Technology,Monitors,27-inch Monitor,7,0,2062.93,497.75
+ORD-00059,2025-07-20,CUST-0027,Emma Clark,Small Business,Central,Texas,Technology,Laptops,Business Laptop,5,0.15,4099.84,124.4
+ORD-00448,2025-07-24,CUST-0196,Isabella Martin,Home Office,East,Massachusetts,Technology,Phones,Smartphone,2,0,1255.48,232.81
+ORD-00892,2025-07-25,CUST-0020,Benjamin Johnson,Corporate,Central,Texas,Office Supplies,Paper,Printer Paper Case,4,0.15,150.61,15.89
+ORD-00165,2025-07-27,CUST-0102,James Wilson,Small Business,Central,Michigan,Office Supplies,Paper,Printer Paper Case,5,0,191.71,52.56
+ORD-00009,2025-07-28,CUST-0057,Ava Martinez,Home Office,East,Pennsylvania,Furniture,Bookcases,Office Bookcase,5,0.15,926.27,-32.29
+ORD-00396,2025-07-29,CUST-0066,Benjamin Davis,Home Office,West,Arizona,Technology,Monitors,27-inch Monitor,1,0.05,241.19,32.44
+ORD-00216,2025-07-30,CUST-0026,Sophia Taylor,Corporate,East,Maryland,Technology,Laptops,Business Laptop,7,0.2,4614.97,-489.25
+ORD-00385,2025-07-30,CUST-0175,Harper Clark,Consumer,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,8,0.2,145.26,18.75
+ORD-00970,2025-07-31,CUST-0037,Liam Moore,Home Office,West,Arizona,Technology,Laptops,Business Laptop,7,0,5754.58,898.04
+ORD-00227,2025-08-01,CUST-0138,Mason Miller,Home Office,West,Washington,Technology,Phones,Smartphone,1,0.2,564.45,-28.4
+ORD-00471,2025-08-01,CUST-0205,James Brown,Corporate,South,Virginia,Technology,Monitors,27-inch Monitor,6,0.1,1549.33,200.17
+ORD-00364,2025-08-02,CUST-0195,Benjamin Taylor,Consumer,West,Washington,Technology,Accessories,Wireless Keyboard,3,0.15,151.14,-3.16
+ORD-00459,2025-08-02,CUST-0108,Mason Thomas,Home Office,South,South Carolina,Office Supplies,Paper,Printer Paper Case,3,0,140.44,42.71
+ORD-00140,2025-08-03,CUST-0114,Olivia Clark,Corporate,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,1,0.1,19.9,3.71
+ORD-00283,2025-08-08,CUST-0211,Jack Garcia,Corporate,South,North Carolina,Office Supplies,Binders,Premium Binder Pack,8,0,171.79,46.02
+ORD-00773,2025-08-09,CUST-0099,Benjamin Martin,Small Business,South,Virginia,Furniture,Chairs,Ergonomic Office Chair,8,0,2775.0,453.32
+ORD-00325,2025-08-13,CUST-0159,Noah Martin,Corporate,South,Virginia,Furniture,Bookcases,Office Bookcase,4,0.15,796.64,20.09
+ORD-00378,2025-08-14,CUST-0169,Noah Taylor,Home Office,West,Arizona,Technology,Monitors,27-inch Monitor,6,0.2,1438.73,-16.32
+ORD-00635,2025-08-15,CUST-0157,Benjamin Taylor,Consumer,West,Colorado,Furniture,Bookcases,Office Bookcase,5,0,1062.21,194.59
+ORD-00033,2025-08-17,CUST-0081,Henry Lewis,Consumer,South,Georgia,Technology,Accessories,Wireless Keyboard,5,0,250.05,61.4
+ORD-00654,2025-08-19,CUST-0109,Henry Brown,Consumer,South,Georgia,Office Supplies,Writing,Pen Set,4,0.2,62.8,4.94
+ORD-00023,2025-08-20,CUST-0102,Ava Thomas,Home Office,South,Florida,Furniture,Desks,Standing Desk,6,0,2917.67,354.44
+ORD-00808,2025-08-21,CUST-0031,Liam Clark,Corporate,East,Massachusetts,Technology,Accessories,Wireless Mouse,7,0,274.29,73.19
+ORD-00530,2025-08-22,CUST-0117,Ethan Harris,Small Business,East,New York,Office Supplies,Storage,File Storage Box,8,0,286.83,89.92
+ORD-00634,2025-08-22,CUST-0086,Emma Davis,Home Office,West,California,Office Supplies,Storage,File Storage Box,4,0,122.83,32.58
+ORD-00669,2025-08-23,CUST-0146,Henry Thompson,Consumer,South,Georgia,Office Supplies,Writing,Pen Set,2,0,39.1,11.39
+ORD-00880,2025-08-23,CUST-0136,James Harris,Consumer,South,Virginia,Technology,Monitors,27-inch Monitor,7,0,2044.37,501.96
+ORD-00689,2025-08-24,CUST-0203,Mia Clark,Corporate,West,Oregon,Office Supplies,Paper,Printer Paper Case,4,0,152.5,37.53
+ORD-00230,2025-08-25,CUST-0036,Mia Moore,Consumer,East,Pennsylvania,Furniture,Bookcases,Office Bookcase,6,0.2,1080.48,-98.32
+ORD-00312,2025-08-25,CUST-0117,Evelyn Lewis,Small Business,South,Florida,Office Supplies,Writing,Pen Set,5,0,80.79,29.52
+ORD-00461,2025-08-25,CUST-0063,Daniel Anderson,Corporate,West,Washington,Technology,Accessories,Wireless Mouse,8,0.05,263.54,55.77
+ORD-00942,2025-08-25,CUST-0138,Luna Johnson,Consumer,East,Pennsylvania,Technology,Phones,Smartphone,1,0,644.49,124.19
+ORD-00058,2025-08-26,CUST-0078,Emma Robinson,Corporate,West,Arizona,Furniture,Bookcases,Office Bookcase,5,0,1160.05,188.48
+ORD-00275,2025-08-26,CUST-0187,Emma Clark,Home Office,Central,Illinois,Furniture,Desks,Standing Desk,3,0.05,1426.93,72.5
+ORD-00908,2025-08-26,CUST-0088,Jack Davis,Home Office,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,7,0,161.87,49.66
+ORD-00404,2025-08-28,CUST-0164,Daniel Thomas,Small Business,East,Maryland,Technology,Accessories,Wireless Keyboard,8,0.15,404.75,8.17
+ORD-00545,2025-08-30,CUST-0044,Sophia Taylor,Home Office,Central,Ohio,Office Supplies,Storage,File Storage Box,8,0.05,233.98,60.15
+ORD-00438,2025-08-31,CUST-0206,Harper Lewis,Corporate,East,Massachusetts,Office Supplies,Paper,Printer Paper Case,1,0.2,32.33,0.55
+ORD-00575,2025-09-01,CUST-0196,Luna Clark,Small Business,East,Massachusetts,Technology,Accessories,Wireless Mouse,7,0,231.0,56.58
+ORD-00372,2025-09-02,CUST-0134,Evelyn Martin,Corporate,East,Massachusetts,Office Supplies,Storage,File Storage Box,2,0,62.86,14.55
+ORD-00231,2025-09-03,CUST-0244,Evelyn Davis,Corporate,Central,Tennessee,Technology,Monitors,27-inch Monitor,3,0,961.24,203.35
+ORD-00841,2025-09-03,CUST-0238,Liam Taylor,Small Business,South,North Carolina,Technology,Accessories,Wireless Mouse,1,0.2,31.52,1.12
+ORD-00051,2025-09-06,CUST-0110,James Brown,Small Business,South,Georgia,Furniture,Desks,Standing Desk,2,0.2,953.17,-116.92
+ORD-00595,2025-09-08,CUST-0172,Olivia Harris,Corporate,South,North Carolina,Office Supplies,Paper,Printer Paper Case,5,0.2,150.72,6.95
+ORD-00707,2025-09-10,CUST-0003,Mason Thomas,Small Business,Central,Illinois,Furniture,Bookcases,Office Bookcase,3,0.2,545.9,-20.01
+ORD-00741,2025-09-12,CUST-0235,Mia Smith,Consumer,Central,Michigan,Office Supplies,Writing,Pen Set,8,0,139.68,41.57
+ORD-00243,2025-09-13,CUST-0204,Lucas Garcia,Home Office,Central,Illinois,Office Supplies,Writing,Pen Set,4,0.15,60.33,10.4
+ORD-00846,2025-09-13,CUST-0004,Ava Thomas,Consumer,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,2,0,671.49,79.75
+ORD-00879,2025-09-13,CUST-0210,Olivia Thompson,Corporate,Central,Tennessee,Technology,Phones,Smartphone,7,0.05,4036.89,606.43
+ORD-00961,2025-09-13,CUST-0215,Luna Thomas,Corporate,South,Virginia,Technology,Laptops,Business Laptop,8,0.15,5904.85,26.78
+ORD-00551,2025-09-14,CUST-0051,Emma Brown,Home Office,South,Georgia,Technology,Laptops,Business Laptop,4,0.1,3127.74,256.98
+ORD-00248,2025-09-15,CUST-0004,Ava Smith,Corporate,South,Florida,Furniture,Chairs,Ergonomic Office Chair,1,0,344.45,43.33
+ORD-00687,2025-09-17,CUST-0218,Amelia Harris,Consumer,West,California,Technology,Monitors,27-inch Monitor,7,0,1778.69,292.95
+ORD-00377,2025-09-18,CUST-0143,Benjamin Miller,Small Business,West,Oregon,Office Supplies,Paper,Printer Paper Case,5,0.15,176.24,26.68
+ORD-00490,2025-09-18,CUST-0141,Liam Smith,Small Business,South,Virginia,Technology,Laptops,Business Laptop,7,0.2,4352.73,-96.07
+ORD-00399,2025-09-19,CUST-0081,Isabella Thomas,Small Business,Central,Michigan,Furniture,Desks,Standing Desk,7,0.2,3275.74,-126.34
+ORD-00479,2025-09-19,CUST-0173,Liam Davis,Home Office,East,New York,Technology,Monitors,27-inch Monitor,6,0.1,1511.67,173.18
+ORD-00523,2025-09-19,CUST-0002,Ethan Brown,Small Business,East,New York,Furniture,Desks,Standing Desk,7,0.2,2686.59,-425.26
+ORD-00310,2025-09-21,CUST-0002,Liam Robinson,Corporate,West,California,Technology,Accessories,Wireless Keyboard,7,0.15,325.92,20.97
+ORD-00701,2025-09-21,CUST-0131,James Garcia,Home Office,South,Florida,Furniture,Desks,Standing Desk,2,0,1058.02,167.23
+ORD-00998,2025-09-21,CUST-0053,Jack White,Small Business,Central,Tennessee,Office Supplies,Paper,Printer Paper Case,6,0.1,239.4,47.55
+ORD-00794,2025-09-22,CUST-0185,Ethan Harris,Small Business,South,Georgia,Technology,Laptops,Business Laptop,8,0,6531.77,1120.03
+ORD-00150,2025-09-24,CUST-0078,Benjamin Taylor,Home Office,East,Maryland,Office Supplies,Binders,Premium Binder Pack,1,0.05,25.54,6.68
+ORD-00317,2025-09-24,CUST-0052,Sophia Martinez,Corporate,South,Virginia,Furniture,Bookcases,Office Bookcase,2,0,382.53,56.57
+ORD-00641,2025-09-24,CUST-0201,James Johnson,Small Business,Central,Michigan,Technology,Phones,Smartphone,4,0,2682.51,561.8
+ORD-00307,2025-09-27,CUST-0098,Evelyn Thomas,Home Office,South,Virginia,Furniture,Chairs,Ergonomic Office Chair,2,0.05,691.69,92.04
+ORD-00390,2025-09-27,CUST-0071,Benjamin Miller,Small Business,South,Florida,Office Supplies,Paper,Printer Paper Case,6,0.05,268.72,60.54
+ORD-00621,2025-09-29,CUST-0205,Luna Wilson,Corporate,Central,Texas,Furniture,Desks,Standing Desk,8,0,4724.94,858.14
+ORD-00210,2025-10-02,CUST-0002,Amelia Jackson,Home Office,Central,Illinois,Furniture,Bookcases,Office Bookcase,8,0.1,1582.31,54.94
+ORD-00408,2025-10-02,CUST-0176,Sophia Thomas,Small Business,Central,Texas,Office Supplies,Binders,Premium Binder Pack,4,0.1,93.87,18.59
+ORD-00934,2025-10-02,CUST-0077,Noah Davis,Home Office,South,Florida,Office Supplies,Binders,Premium Binder Pack,7,0.2,120.84,19.46
+ORD-00684,2025-10-03,CUST-0161,Isabella Anderson,Corporate,Central,Ohio,Technology,Phones,Smartphone,2,0,1312.47,227.49
+ORD-00822,2025-10-04,CUST-0189,Isabella Brown,Corporate,South,Georgia,Technology,Accessories,Wireless Keyboard,1,0.2,50.2,-4.28
+ORD-00350,2025-10-06,CUST-0213,Henry Brown,Corporate,South,South Carolina,Furniture,Desks,Standing Desk,4,0.2,1772.26,-251.27
+ORD-00712,2025-10-06,CUST-0049,Benjamin Davis,Small Business,East,Massachusetts,Furniture,Chairs,Ergonomic Office Chair,7,0.05,2021.06,215.01
+ORD-00932,2025-10-06,CUST-0199,Henry Clark,Consumer,South,Virginia,Technology,Laptops,Business Laptop,2,0,1511.26,212.29
+ORD-00352,2025-10-07,CUST-0002,Jack Brown,Consumer,West,Colorado,Office Supplies,Storage,File Storage Box,7,0.05,205.44,38.82
+ORD-00760,2025-10-10,CUST-0148,Jack Brown,Small Business,South,South Carolina,Office Supplies,Writing,Pen Set,8,0,157.65,47.32
+ORD-00803,2025-10-11,CUST-0050,Ava Martin,Consumer,East,Maryland,Furniture,Desks,Standing Desk,3,0,1423.54,177.44
+ORD-00132,2025-10-12,CUST-0089,Lucas Davis,Small Business,West,Colorado,Technology,Laptops,Business Laptop,7,0,5643.49,1190.59
+ORD-00148,2025-10-12,CUST-0165,Ethan Clark,Corporate,South,Georgia,Technology,Accessories,Wireless Mouse,5,0,183.53,38.25
+ORD-00225,2025-10-12,CUST-0216,Harper Lewis,Consumer,West,Washington,Office Supplies,Storage,File Storage Box,3,0.1,79.92,11.95
+ORD-00616,2025-10-13,CUST-0121,Sophia Miller,Home Office,East,Maryland,Furniture,Desks,Standing Desk,8,0,3872.99,451.14
+ORD-00747,2025-10-13,CUST-0102,Mason Smith,Corporate,West,California,Technology,Phones,Smartphone,6,0.2,2865.82,-132.25
+ORD-00922,2025-10-13,CUST-0131,Daniel Moore,Home Office,South,Florida,Technology,Accessories,Wireless Keyboard,1,0,50.5,10.18
+ORD-00931,2025-10-14,CUST-0052,Ethan Martin,Corporate,West,Colorado,Technology,Accessories,Wireless Keyboard,4,0,208.6,42.92
+ORD-00244,2025-10-15,CUST-0082,Ava Harris,Home Office,South,South Carolina,Office Supplies,Storage,File Storage Box,2,0.1,64.51,11.73
+ORD-00591,2025-10-15,CUST-0119,Ava Taylor,Corporate,East,New Jersey,Technology,Monitors,27-inch Monitor,7,0.1,1898.39,179.33
+ORD-00093,2025-10-16,CUST-0145,Mia Brown,Corporate,South,South Carolina,Furniture,Desks,Standing Desk,1,0,568.07,63.25
+ORD-00907,2025-10-16,CUST-0116,Evelyn Miller,Small Business,South,South Carolina,Office Supplies,Binders,Premium Binder Pack,2,0,53.61,18.28
+ORD-00681,2025-10-18,CUST-0071,Noah Martinez,Home Office,West,California,Office Supplies,Binders,Premium Binder Pack,1,0.2,21.76,3.0
+ORD-00423,2025-10-19,CUST-0013,James Taylor,Consumer,South,North Carolina,Furniture,Chairs,Ergonomic Office Chair,7,0.15,1957.49,-25.51
+ORD-00761,2025-10-19,CUST-0029,Olivia Jackson,Corporate,West,Colorado,Furniture,Desks,Standing Desk,7,0.2,2746.04,-178.23
+ORD-00815,2025-10-19,CUST-0162,Jack White,Small Business,East,Massachusetts,Technology,Laptops,Business Laptop,4,0.2,2547.8,62.26
+ORD-00958,2025-10-19,CUST-0086,Henry White,Home Office,Central,Michigan,Technology,Phones,Smartphone,7,0,4179.77,798.06
+ORD-00850,2025-10-21,CUST-0040,Noah Thomas,Home Office,Central,Texas,Furniture,Chairs,Ergonomic Office Chair,1,0.15,302.07,-6.8
+ORD-00527,2025-10-22,CUST-0228,Harper Johnson,Consumer,East,New York,Technology,Laptops,Business Laptop,6,0,4776.61,933.89
+ORD-00169,2025-10-23,CUST-0186,Liam Miller,Home Office,Central,Ohio,Technology,Monitors,27-inch Monitor,1,0.2,202.53,-4.2
+ORD-00470,2025-10-23,CUST-0230,Isabella Thompson,Home Office,West,Colorado,Technology,Laptops,Business Laptop,3,0.05,2233.43,366.4
+ORD-00718,2025-10-23,CUST-0157,Ethan Martin,Corporate,South,North Carolina,Technology,Monitors,27-inch Monitor,8,0,2394.75,447.27
+ORD-00536,2025-10-25,CUST-0220,Luna Clark,Consumer,Central,Ohio,Technology,Accessories,Wireless Mouse,2,0,70.67,18.61
+ORD-00735,2025-10-25,CUST-0063,Mia Robinson,Consumer,South,Virginia,Office Supplies,Binders,Premium Binder Pack,5,0.2,85.09,2.4
+ORD-00141,2025-10-27,CUST-0133,Amelia Robinson,Consumer,Central,Michigan,Office Supplies,Paper,Printer Paper Case,5,0,239.26,61.43
+ORD-00780,2025-10-27,CUST-0241,Ava Robinson,Corporate,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,3,0.05,68.61,17.33
+ORD-00671,2025-10-30,CUST-0065,Amelia White,Corporate,West,Oregon,Technology,Monitors,27-inch Monitor,3,0,752.85,138.97
+ORD-00776,2025-10-30,CUST-0032,Evelyn Thomas,Small Business,East,Maryland,Technology,Accessories,Wireless Mouse,3,0,108.35,22.01
+ORD-00442,2025-11-01,CUST-0169,James Davis,Consumer,Central,Texas,Office Supplies,Storage,File Storage Box,1,0,31.52,9.67
+ORD-00120,2025-11-02,CUST-0097,Isabella Wilson,Consumer,East,Massachusetts,Technology,Monitors,27-inch Monitor,7,0,2039.7,383.18
+ORD-00426,2025-11-03,CUST-0107,Noah Clark,Small Business,East,Pennsylvania,Office Supplies,Writing,Pen Set,4,0.1,67.96,17.44
+ORD-00585,2025-11-04,CUST-0121,Luna Smith,Small Business,Central,Texas,Office Supplies,Storage,File Storage Box,7,0.1,205.43,26.0
+ORD-00214,2025-11-05,CUST-0154,Benjamin Clark,Home Office,Central,Illinois,Technology,Monitors,27-inch Monitor,3,0.15,709.89,33.0
+ORD-00526,2025-11-06,CUST-0217,Benjamin Garcia,Corporate,East,New Jersey,Furniture,Desks,Standing Desk,4,0,1860.2,211.0
+ORD-00871,2025-11-06,CUST-0149,Noah Davis,Home Office,East,New Jersey,Technology,Monitors,27-inch Monitor,1,0,252.67,40.95
+ORD-00874,2025-11-06,CUST-0158,Jack Robinson,Consumer,Central,Texas,Technology,Accessories,Wireless Keyboard,1,0,62.89,14.06
+ORD-00186,2025-11-07,CUST-0226,Ethan Martin,Home Office,East,Massachusetts,Technology,Accessories,Wireless Keyboard,4,0.05,200.88,44.9
+ORD-00911,2025-11-07,CUST-0220,Evelyn Robinson,Corporate,South,Florida,Office Supplies,Paper,Printer Paper Case,1,0,39.81,10.57
+ORD-00953,2025-11-07,CUST-0113,Emma Thompson,Consumer,South,Georgia,Furniture,Chairs,Ergonomic Office Chair,6,0.2,1484.21,-44.24
+ORD-00315,2025-11-08,CUST-0114,Amelia Davis,Small Business,South,Virginia,Technology,Laptops,Business Laptop,2,0.15,1597.81,41.67
+ORD-00716,2025-11-11,CUST-0129,Harper Anderson,Corporate,Central,Michigan,Furniture,Bookcases,Office Bookcase,8,0,1752.24,320.44
+ORD-00576,2025-11-13,CUST-0032,Sophia Garcia,Home Office,West,Arizona,Office Supplies,Storage,File Storage Box,7,0.05,216.65,49.07
+ORD-00720,2025-11-13,CUST-0106,Daniel Davis,Small Business,Central,Tennessee,Technology,Monitors,27-inch Monitor,2,0.15,512.25,20.79
+ORD-00923,2025-11-14,CUST-0179,Noah Thompson,Home Office,West,Arizona,Technology,Monitors,27-inch Monitor,2,0.1,510.6,38.37
+ORD-00286,2025-11-15,CUST-0142,Liam Harris,Home Office,East,New York,Technology,Phones,Smartphone,6,0.2,3201.72,-331.09
+ORD-00319,2025-11-16,CUST-0186,Noah Anderson,Corporate,South,North Carolina,Furniture,Chairs,Ergonomic Office Chair,8,0,2954.51,344.95
+ORD-00486,2025-11-16,CUST-0152,Jack Thompson,Small Business,East,Pennsylvania,Furniture,Desks,Standing Desk,2,0.15,1000.1,-27.88
+ORD-00642,2025-11-16,CUST-0247,Noah Davis,Consumer,East,Maryland,Furniture,Chairs,Ergonomic Office Chair,2,0.15,493.72,-11.48
+ORD-00187,2025-11-18,CUST-0077,Amelia Miller,Home Office,South,Georgia,Furniture,Desks,Standing Desk,7,0.2,2974.91,-317.76
+ORD-00613,2025-11-18,CUST-0067,Ethan Martinez,Home Office,West,Arizona,Office Supplies,Binders,Premium Binder Pack,6,0,164.36,51.32
+ORD-00160,2025-11-20,CUST-0177,Emma Lewis,Home Office,South,Georgia,Office Supplies,Paper,Printer Paper Case,2,0.05,82.8,19.99
+ORD-00398,2025-11-20,CUST-0074,Harper Wilson,Corporate,Central,Ohio,Office Supplies,Paper,Printer Paper Case,8,0.2,290.0,2.19
+ORD-00067,2025-11-21,CUST-0194,Ethan Garcia,Home Office,South,North Carolina,Technology,Accessories,Wireless Mouse,1,0.2,29.72,0.34
+ORD-00369,2025-11-22,CUST-0006,Lucas Johnson,Corporate,Central,Texas,Office Supplies,Storage,File Storage Box,8,0.05,227.85,59.28
+ORD-00326,2025-11-23,CUST-0014,Emma Miller,Home Office,West,Arizona,Furniture,Desks,Standing Desk,7,0,4027.8,760.86
+ORD-00574,2025-11-23,CUST-0027,Ethan Brown,Small Business,West,Oregon,Furniture,Desks,Standing Desk,2,0,955.46,146.33
+ORD-00506,2025-11-24,CUST-0004,Henry Davis,Consumer,East,Maryland,Office Supplies,Paper,Printer Paper Case,3,0,129.51,40.78
+ORD-00529,2025-11-24,CUST-0189,Henry Moore,Home Office,West,Washington,Furniture,Bookcases,Office Bookcase,6,0,1373.81,190.72
+ORD-00139,2025-11-26,CUST-0009,Ava Brown,Corporate,Central,Tennessee,Furniture,Bookcases,Office Bookcase,3,0,578.69,115.92
+ORD-00770,2025-11-26,CUST-0014,Noah Martinez,Small Business,East,New Jersey,Office Supplies,Binders,Premium Binder Pack,3,0,65.23,18.01
+ORD-00205,2025-11-27,CUST-0019,Olivia Anderson,Corporate,West,Colorado,Technology,Accessories,Wireless Keyboard,7,0,419.07,84.73
+ORD-00541,2025-11-27,CUST-0129,Evelyn Davis,Home Office,Central,Ohio,Office Supplies,Writing,Pen Set,7,0,112.73,36.15
+ORD-00168,2025-11-28,CUST-0168,Benjamin Garcia,Corporate,Central,Michigan,Technology,Phones,Smartphone,3,0,2223.82,298.47
+ORD-00292,2025-11-28,CUST-0013,Benjamin Anderson,Small Business,East,Maryland,Furniture,Chairs,Ergonomic Office Chair,7,0,2245.12,386.49
+ORD-00753,2025-11-29,CUST-0097,Jack Johnson,Small Business,West,Arizona,Office Supplies,Paper,Printer Paper Case,6,0,277.34,83.16
+ORD-00627,2025-12-01,CUST-0142,Olivia Johnson,Consumer,Central,Illinois,Technology,Accessories,Wireless Keyboard,5,0.2,208.37,4.13
+ORD-00956,2025-12-01,CUST-0244,Sophia Anderson,Consumer,South,North Carolina,Technology,Accessories,Wireless Keyboard,8,0.1,382.41,33.39
+ORD-00092,2025-12-03,CUST-0071,Mia Davis,Home Office,East,Massachusetts,Technology,Phones,Smartphone,6,0.1,3943.34,26.66
+ORD-00264,2025-12-03,CUST-0017,Mia Thompson,Corporate,East,New Jersey,Office Supplies,Paper,Printer Paper Case,2,0.1,78.49,8.77
+ORD-00755,2025-12-03,CUST-0246,Isabella Smith,Small Business,Central,Michigan,Furniture,Chairs,Ergonomic Office Chair,8,0.1,2320.21,249.38
+ORD-00064,2025-12-04,CUST-0240,Mia Martin,Consumer,Central,Michigan,Technology,Phones,Smartphone,4,0,2841.06,509.99
+ORD-00151,2025-12-06,CUST-0156,Ava Jackson,Small Business,Central,Michigan,Technology,Phones,Smartphone,1,0,649.15,89.82
+ORD-00514,2025-12-06,CUST-0175,Mason Harris,Consumer,East,New York,Office Supplies,Binders,Premium Binder Pack,8,0,198.37,57.98
+ORD-00656,2025-12-06,CUST-0033,Benjamin Thompson,Corporate,West,Colorado,Office Supplies,Storage,File Storage Box,8,0.15,248.67,12.15
+ORD-00611,2025-12-10,CUST-0153,Sophia Brown,Consumer,West,Washington,Office Supplies,Paper,Printer Paper Case,7,0.15,234.23,28.95
+ORD-00693,2025-12-10,CUST-0108,Isabella Miller,Consumer,West,Colorado,Furniture,Chairs,Ergonomic Office Chair,6,0.2,1616.43,-178.0
+ORD-00239,2025-12-11,CUST-0027,Noah Jackson,Small Business,Central,Texas,Office Supplies,Binders,Premium Binder Pack,3,0.05,61.5,16.87
+ORD-00440,2025-12-11,CUST-0138,Mia Moore,Small Business,Central,Texas,Office Supplies,Paper,Printer Paper Case,2,0,84.13,21.77
+ORD-00316,2025-12-12,CUST-0160,Jack Wilson,Home Office,West,Washington,Technology,Accessories,Wireless Mouse,1,0,34.78,8.58
+ORD-00465,2025-12-12,CUST-0157,Liam Davis,Consumer,West,Washington,Technology,Phones,Smartphone,5,0,3322.49,606.77
+ORD-00498,2025-12-12,CUST-0149,Ethan Clark,Consumer,Central,Illinois,Technology,Laptops,Business Laptop,5,0.15,3944.69,209.85
+ORD-00044,2025-12-13,CUST-0242,James Thomas,Home Office,West,Colorado,Furniture,Chairs,Ergonomic Office Chair,1,0.2,290.62,-22.13
+ORD-00516,2025-12-13,CUST-0162,Harper Moore,Corporate,West,Washington,Technology,Monitors,27-inch Monitor,7,0,2058.52,345.09
+ORD-00781,2025-12-14,CUST-0155,Ethan Martin,Corporate,South,Georgia,Furniture,Desks,Standing Desk,4,0.15,1733.49,-9.21
+ORD-00562,2025-12-15,CUST-0036,Evelyn Thomas,Small Business,Central,Ohio,Furniture,Desks,Standing Desk,6,0,3195.8,360.92
+ORD-00258,2025-12-18,CUST-0035,Amelia Brown,Consumer,East,Maryland,Office Supplies,Binders,Premium Binder Pack,6,0.05,156.38,35.35
+ORD-01000,2025-12-19,CUST-0016,Jack Thompson,Corporate,South,North Carolina,Technology,Monitors,27-inch Monitor,4,0,1195.48,226.89
+ORD-00834,2025-12-21,CUST-0014,Noah Clark,Consumer,East,New York,Furniture,Bookcases,Office Bookcase,3,0.05,645.14,69.25
+ORD-00005,2025-12-22,CUST-0219,Lucas Davis,Home Office,Central,Tennessee,Technology,Accessories,Wireless Mouse,2,0,74.1,21.39
+ORD-00814,2025-12-26,CUST-0075,Liam Wilson,Small Business,Central,Illinois,Technology,Monitors,27-inch Monitor,5,0.1,1149.32,131.7
+ORD-00638,2025-12-29,CUST-0204,Benjamin Miller,Corporate,East,Massachusetts,Furniture,Bookcases,Office Bookcase,7,0.05,1543.04,209.73
+ORD-00810,2025-12-29,CUST-0230,James Thompson,Consumer,East,New Jersey,Office Supplies,Writing,Pen Set,5,0.2,79.95,7.91
+ORD-00158,2025-12-31,CUST-0132,Ava Jackson,Small Business,South,North Carolina,Technology,Accessories,Wireless Keyboard,6,0.2,266.09,5.25
+ORD-00481,2025-12-31,CUST-0206,Harper Davis,Home Office,Central,Ohio,Technology,Accessories,Wireless Mouse,2,0.2,60.84,-1.2
+ORD-00337,2026-01-01,CUST-0167,Ethan Martinez,Small Business,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,5,0.15,1344.27,23.94
+ORD-00653,2026-01-01,CUST-0147,Ava Harris,Corporate,East,Maryland,Furniture,Chairs,Ergonomic Office Chair,4,0,1249.02,229.02
+ORD-00974,2026-01-03,CUST-0036,Sophia Davis,Small Business,West,Arizona,Technology,Phones,Smartphone,2,0.05,1383.2,101.0
+ORD-00039,2026-01-05,CUST-0229,Noah Martin,Corporate,West,Oregon,Technology,Accessories,Wireless Mouse,7,0.05,229.94,50.0
+ORD-00055,2026-01-07,CUST-0183,Benjamin Thompson,Consumer,East,New York,Technology,Accessories,Wireless Mouse,7,0.05,239.71,46.9
+ORD-00517,2026-01-07,CUST-0128,Daniel Thompson,Consumer,South,South Carolina,Technology,Laptops,Business Laptop,4,0.05,3181.44,426.71
+ORD-00493,2026-01-08,CUST-0165,Henry Thompson,Home Office,South,North Carolina,Technology,Accessories,Wireless Keyboard,8,0.15,373.22,-8.02
+ORD-00738,2026-01-08,CUST-0148,Harper Moore,Small Business,West,Arizona,Technology,Accessories,Wireless Keyboard,4,0,218.79,45.35
+ORD-00829,2026-01-08,CUST-0072,Ava Brown,Small Business,East,New Jersey,Office Supplies,Storage,File Storage Box,8,0.2,183.95,16.01
+ORD-00456,2026-01-09,CUST-0035,Amelia Martin,Small Business,West,Colorado,Technology,Phones,Smartphone,2,0,1417.33,258.88
+ORD-00771,2026-01-09,CUST-0177,Jack Miller,Home Office,West,Washington,Furniture,Desks,Standing Desk,7,0,3236.61,466.0
+ORD-00816,2026-01-09,CUST-0161,Emma White,Corporate,South,Virginia,Technology,Monitors,27-inch Monitor,3,0.05,895.8,179.0
+ORD-00174,2026-01-10,CUST-0031,Harper Thomas,Corporate,Central,Ohio,Furniture,Chairs,Ergonomic Office Chair,1,0,343.36,39.69
+ORD-00507,2026-01-12,CUST-0241,Jack Moore,Consumer,West,Arizona,Technology,Accessories,Wireless Mouse,5,0,163.12,33.97
+ORD-00323,2026-01-13,CUST-0206,Luna Thompson,Corporate,South,South Carolina,Furniture,Bookcases,Office Bookcase,1,0.2,155.07,-4.15
+ORD-00414,2026-01-15,CUST-0164,Mason Moore,Small Business,Central,Illinois,Furniture,Desks,Standing Desk,1,0.15,500.83,-22.08
+ORD-00294,2026-01-16,CUST-0211,Henry Garcia,Small Business,West,Arizona,Technology,Monitors,27-inch Monitor,7,0.1,1859.78,163.19
+ORD-00933,2026-01-17,CUST-0091,James Lewis,Corporate,Central,Illinois,Furniture,Desks,Standing Desk,8,0,4595.75,655.52
+ORD-00852,2026-01-19,CUST-0082,Isabella Lewis,Home Office,South,North Carolina,Technology,Accessories,Wireless Keyboard,2,0.05,113.64,18.59
+ORD-00912,2026-01-20,CUST-0122,James Taylor,Home Office,South,Georgia,Technology,Accessories,Wireless Keyboard,4,0.05,216.94,34.12
+ORD-00314,2026-01-21,CUST-0203,Liam Harris,Small Business,East,Pennsylvania,Technology,Accessories,Wireless Mouse,1,0.1,32.01,5.65
+ORD-00425,2026-01-21,CUST-0025,Noah Taylor,Home Office,Central,Tennessee,Technology,Laptops,Business Laptop,2,0.2,1308.39,-61.36
+ORD-00870,2026-01-21,CUST-0168,Lucas Thomas,Corporate,West,California,Furniture,Bookcases,Office Bookcase,3,0.05,629.21,52.52
+ORD-00900,2026-01-21,CUST-0074,Jack Thomas,Consumer,West,California,Technology,Accessories,Wireless Mouse,5,0.05,155.53,26.08
+ORD-00045,2026-01-22,CUST-0087,Amelia Miller,Home Office,West,Oregon,Furniture,Bookcases,Office Bookcase,4,0.05,749.52,59.61
+ORD-00596,2026-01-22,CUST-0135,Sophia Garcia,Consumer,East,New York,Furniture,Chairs,Ergonomic Office Chair,2,0.1,619.71,40.24
+ORD-00172,2026-01-24,CUST-0157,Amelia Martin,Small Business,Central,Illinois,Technology,Laptops,Business Laptop,6,0.2,3915.4,-327.11
+ORD-00733,2026-01-25,CUST-0128,Mason Moore,Corporate,South,Georgia,Technology,Accessories,Wireless Mouse,7,0.2,185.37,7.94
+ORD-00672,2026-01-26,CUST-0186,Daniel Anderson,Home Office,Central,Texas,Technology,Accessories,Wireless Keyboard,2,0,99.46,25.34
+ORD-00159,2026-01-27,CUST-0182,Luna Thomas,Home Office,East,New Jersey,Furniture,Chairs,Ergonomic Office Chair,5,0.1,1419.83,40.06
+ORD-00167,2026-01-28,CUST-0060,Liam Davis,Home Office,East,New York,Furniture,Chairs,Ergonomic Office Chair,4,0,1161.82,151.4
+ORD-00305,2026-01-28,CUST-0175,Isabella Brown,Corporate,South,Florida,Technology,Accessories,Wireless Keyboard,5,0.15,256.72,2.01
+ORD-00500,2026-01-29,CUST-0115,James Miller,Small Business,Central,Ohio,Technology,Laptops,Business Laptop,2,0.1,1418.53,54.04
+ORD-00076,2026-02-01,CUST-0203,Ava Garcia,Consumer,West,California,Office Supplies,Paper,Printer Paper Case,8,0.15,321.76,56.19
+ORD-00565,2026-02-01,CUST-0079,Ava Moore,Corporate,East,Massachusetts,Technology,Laptops,Business Laptop,2,0,1555.08,314.01
+ORD-00806,2026-02-01,CUST-0111,Ethan Anderson,Home Office,South,North Carolina,Furniture,Desks,Standing Desk,6,0,2985.95,461.59
+ORD-00112,2026-02-02,CUST-0030,Evelyn Martinez,Corporate,South,Florida,Technology,Monitors,27-inch Monitor,6,0,1629.48,335.58
+ORD-00630,2026-02-03,CUST-0102,Noah Smith,Corporate,East,Pennsylvania,Technology,Phones,Smartphone,5,0.2,2760.73,-249.69
+ORD-00176,2026-02-04,CUST-0206,Mia Taylor,Consumer,West,Washington,Office Supplies,Storage,File Storage Box,6,0.05,195.08,45.02
+ORD-00797,2026-02-04,CUST-0049,Mason Johnson,Corporate,East,Pennsylvania,Office Supplies,Paper,Printer Paper Case,7,0,287.24,74.07
+ORD-00241,2026-02-05,CUST-0230,Noah Wilson,Consumer,Central,Illinois,Furniture,Desks,Standing Desk,3,0.05,1550.68,102.78
+ORD-00327,2026-02-08,CUST-0058,Daniel Harris,Home Office,West,Washington,Technology,Phones,Smartphone,8,0,4914.21,611.97
+ORD-00799,2026-02-08,CUST-0034,Noah Davis,Consumer,West,Washington,Office Supplies,Paper,Printer Paper Case,7,0.1,284.71,54.04
+ORD-00106,2026-02-11,CUST-0156,Harper Martin,Small Business,South,South Carolina,Technology,Accessories,Wireless Keyboard,1,0.15,42.17,2.46
+ORD-00311,2026-02-14,CUST-0178,James Thomas,Corporate,Central,Texas,Office Supplies,Paper,Printer Paper Case,4,0,178.54,46.85
+ORD-00708,2026-02-14,CUST-0222,Amelia Taylor,Corporate,West,Colorado,Furniture,Chairs,Ergonomic Office Chair,1,0.05,326.23,41.09
+ORD-00968,2026-02-14,CUST-0235,Evelyn Brown,Corporate,West,Colorado,Technology,Monitors,27-inch Monitor,8,0.15,1744.72,161.26
+ORD-00331,2026-02-16,CUST-0075,Daniel Martinez,Small Business,West,California,Technology,Phones,Smartphone,4,0,2527.63,522.71
+ORD-00682,2026-02-16,CUST-0115,Isabella Smith,Home Office,West,Arizona,Office Supplies,Writing,Pen Set,1,0.15,14.39,2.49
+ORD-00740,2026-02-16,CUST-0098,Harper Thomas,Home Office,West,Colorado,Technology,Phones,Smartphone,5,0.1,2998.25,67.89
+ORD-00152,2026-02-17,CUST-0069,Harper Taylor,Corporate,Central,Michigan,Technology,Accessories,Wireless Keyboard,6,0.1,306.4,37.64
+ORD-00566,2026-02-20,CUST-0051,Noah Johnson,Consumer,South,Florida,Furniture,Bookcases,Office Bookcase,2,0,371.73,62.75
+ORD-00569,2026-02-20,CUST-0231,Daniel Smith,Consumer,South,North Carolina,Furniture,Chairs,Ergonomic Office Chair,1,0.1,274.54,12.05
+ORD-00848,2026-02-20,CUST-0125,Liam White,Small Business,Central,Michigan,Technology,Monitors,27-inch Monitor,8,0.15,2150.61,92.19
+ORD-00428,2026-02-21,CUST-0055,Amelia Robinson,Small Business,Central,Ohio,Office Supplies,Binders,Premium Binder Pack,7,0.2,144.61,11.23
+ORD-00581,2026-02-21,CUST-0147,Benjamin Garcia,Corporate,Central,Michigan,Office Supplies,Storage,File Storage Box,2,0.1,61.19,10.53
+ORD-00181,2026-02-23,CUST-0233,Amelia Harris,Consumer,West,Washington,Technology,Accessories,Wireless Keyboard,7,0,442.01,114.16
+ORD-00721,2026-02-23,CUST-0119,Emma Brown,Home Office,South,North Carolina,Office Supplies,Writing,Pen Set,6,0.05,102.78,28.57
+ORD-00955,2026-02-23,CUST-0038,Jack Johnson,Corporate,West,Washington,Technology,Monitors,27-inch Monitor,5,0,1560.5,338.21
+ORD-00464,2026-02-25,CUST-0110,Daniel Brown,Small Business,Central,Texas,Technology,Phones,Smartphone,5,0,3183.42,401.4
+ORD-00175,2026-02-27,CUST-0158,Lucas Taylor,Corporate,West,Oregon,Furniture,Bookcases,Office Bookcase,5,0.15,813.69,-37.35
+ORD-00261,2026-02-27,CUST-0041,Mason Lewis,Consumer,South,Virginia,Office Supplies,Paper,Printer Paper Case,4,0.05,153.73,31.18
+ORD-00952,2026-02-28,CUST-0069,Sophia Lewis,Consumer,Central,Texas,Technology,Accessories,Wireless Mouse,5,0,180.98,40.66
+ORD-00597,2026-03-02,CUST-0191,Lucas Martin,Corporate,East,Maryland,Technology,Phones,Smartphone,6,0,4308.45,829.49
+ORD-00608,2026-03-02,CUST-0049,Sophia Thomas,Home Office,South,Virginia,Office Supplies,Binders,Premium Binder Pack,8,0.2,163.1,24.46
+ORD-00094,2026-03-03,CUST-0038,Ava Robinson,Small Business,East,Pennsylvania,Office Supplies,Paper,Printer Paper Case,3,0.2,113.21,17.76
+ORD-00240,2026-03-03,CUST-0003,Jack Miller,Home Office,Central,Illinois,Office Supplies,Binders,Premium Binder Pack,3,0.15,70.26,12.29
+ORD-00412,2026-03-05,CUST-0065,Amelia Smith,Consumer,East,New York,Technology,Monitors,27-inch Monitor,7,0,2012.26,484.18
+ORD-00691,2026-03-05,CUST-0249,Emma Martinez,Corporate,Central,Tennessee,Office Supplies,Writing,Pen Set,3,0,54.37,16.65
+ORD-00437,2026-03-06,CUST-0106,Henry White,Small Business,East,New York,Technology,Monitors,27-inch Monitor,7,0,2087.16,355.08
+ORD-00208,2026-03-08,CUST-0147,Evelyn Miller,Home Office,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,2,0.15,45.83,6.72
+ORD-00497,2026-03-08,CUST-0085,Henry White,Small Business,South,Georgia,Office Supplies,Writing,Pen Set,1,0.05,17.14,4.53
+ORD-00400,2026-03-10,CUST-0048,Emma Wilson,Corporate,West,Arizona,Office Supplies,Storage,File Storage Box,6,0.15,169.48,10.23
+ORD-00985,2026-03-10,CUST-0133,Mia White,Corporate,South,Florida,Technology,Phones,Smartphone,6,0,4239.48,758.63
+ORD-00212,2026-03-11,CUST-0030,Luna Moore,Corporate,Central,Michigan,Furniture,Chairs,Ergonomic Office Chair,4,0,1276.0,185.48
+ORD-00865,2026-03-11,CUST-0215,Henry Taylor,Consumer,West,California,Office Supplies,Paper,Printer Paper Case,4,0.1,144.63,18.95
+ORD-00236,2026-03-13,CUST-0001,Henry Moore,Corporate,South,North Carolina,Furniture,Desks,Standing Desk,8,0,3800.34,530.97
+ORD-00885,2026-03-13,CUST-0230,Daniel Martinez,Consumer,Central,Texas,Furniture,Desks,Standing Desk,1,0.05,472.65,33.56
+ORD-00255,2026-03-14,CUST-0127,Mia Robinson,Corporate,East,Massachusetts,Furniture,Chairs,Ergonomic Office Chair,5,0.15,1447.73,2.17
+ORD-00304,2026-03-14,CUST-0169,Daniel Miller,Small Business,East,Maryland,Furniture,Desks,Standing Desk,8,0.15,3453.94,-109.55
+ORD-00435,2026-03-16,CUST-0013,Daniel Harris,Small Business,East,New Jersey,Technology,Monitors,27-inch Monitor,7,0,1794.75,379.46
+ORD-00170,2026-03-17,CUST-0225,Liam Smith,Small Business,East,New York,Office Supplies,Binders,Premium Binder Pack,8,0,217.51,74.68
+ORD-00688,2026-03-17,CUST-0159,Noah Jackson,Consumer,West,Washington,Furniture,Chairs,Ergonomic Office Chair,1,0.05,303.7,38.07
+ORD-00854,2026-03-19,CUST-0195,Henry Anderson,Small Business,West,California,Office Supplies,Paper,Printer Paper Case,7,0.05,261.88,51.26
+ORD-00215,2026-03-20,CUST-0022,Noah Taylor,Small Business,West,Oregon,Technology,Laptops,Business Laptop,6,0.15,4862.94,141.58
+ORD-00116,2026-03-21,CUST-0155,Benjamin Martinez,Corporate,West,Oregon,Office Supplies,Writing,Pen Set,1,0.05,19.25,4.62
+ORD-00752,2026-03-21,CUST-0239,Benjamin Garcia,Small Business,South,South Carolina,Office Supplies,Writing,Pen Set,1,0.05,17.83,4.97
+ORD-00976,2026-03-24,CUST-0010,Emma Taylor,Corporate,West,California,Furniture,Bookcases,Office Bookcase,6,0,1395.05,291.54
+ORD-00995,2026-03-24,CUST-0119,Benjamin Martinez,Consumer,Central,Illinois,Office Supplies,Writing,Pen Set,8,0.1,131.54,21.53
+ORD-00929,2026-03-25,CUST-0194,Henry Brown,Consumer,Central,Illinois,Furniture,Bookcases,Office Bookcase,4,0,943.27,198.39
+ORD-00484,2026-03-26,CUST-0119,Amelia Clark,Home Office,South,Florida,Furniture,Bookcases,Office Bookcase,2,0,432.67,68.01
+ORD-00763,2026-03-26,CUST-0003,Daniel Thompson,Small Business,Central,Ohio,Furniture,Desks,Standing Desk,3,0.1,1487.13,-8.71
+ORD-00622,2026-03-28,CUST-0103,Sophia Miller,Corporate,South,Georgia,Office Supplies,Paper,Printer Paper Case,1,0.15,32.1,2.2
+ORD-00787,2026-03-28,CUST-0184,Lucas Thomas,Consumer,East,New Jersey,Office Supplies,Paper,Printer Paper Case,8,0.1,289.53,43.34
+ORD-00501,2026-03-29,CUST-0211,Ava Garcia,Home Office,East,New Jersey,Technology,Accessories,Wireless Keyboard,1,0,63.01,14.72
+ORD-00673,2026-04-01,CUST-0182,Harper Anderson,Corporate,East,Maryland,Office Supplies,Writing,Pen Set,6,0.15,104.22,19.91
+ORD-00336,2026-04-04,CUST-0077,Daniel Jackson,Corporate,Central,Ohio,Office Supplies,Storage,File Storage Box,3,0,95.18,28.3
+ORD-00405,2026-04-04,CUST-0003,Emma Martinez,Corporate,West,Oregon,Technology,Accessories,Wireless Mouse,2,0.05,64.05,10.35
+ORD-00087,2026-04-05,CUST-0020,Ava Taylor,Home Office,East,Massachusetts,Office Supplies,Storage,File Storage Box,5,0.15,151.64,12.1
+ORD-00624,2026-04-05,CUST-0095,Evelyn Moore,Home Office,West,Colorado,Furniture,Bookcases,Office Bookcase,5,0.15,930.83,-12.72
+ORD-00785,2026-04-05,CUST-0183,Ava Wilson,Corporate,West,Washington,Office Supplies,Paper,Printer Paper Case,7,0.05,290.45,73.78
+ORD-00017,2026-04-06,CUST-0106,Harper Johnson,Consumer,West,Washington,Office Supplies,Storage,File Storage Box,7,0,202.82,53.12
+ORD-00789,2026-04-07,CUST-0128,Evelyn Robinson,Consumer,Central,Tennessee,Office Supplies,Storage,File Storage Box,1,0.05,32.31,5.63
+ORD-00003,2026-04-08,CUST-0040,Mia Jackson,Consumer,West,Oregon,Technology,Monitors,27-inch Monitor,1,0.2,245.86,-13.07
+ORD-00269,2026-04-08,CUST-0041,Noah Taylor,Corporate,South,Georgia,Technology,Laptops,Business Laptop,8,0.1,5976.22,274.36
+ORD-00579,2026-04-08,CUST-0099,Harper Jackson,Home Office,Central,Tennessee,Office Supplies,Paper,Printer Paper Case,1,0.2,29.85,3.3
+ORD-00583,2026-04-08,CUST-0089,James Martin,Small Business,East,Massachusetts,Office Supplies,Paper,Printer Paper Case,1,0.2,37.65,1.8
+ORD-00143,2026-04-09,CUST-0229,Mason Miller,Corporate,East,New Jersey,Technology,Phones,Smartphone,6,0.15,3228.16,138.65
+ORD-00061,2026-04-10,CUST-0156,Jack Lewis,Corporate,South,South Carolina,Technology,Accessories,Wireless Keyboard,5,0,315.8,78.57
+ORD-00117,2026-04-10,CUST-0182,Harper Thompson,Corporate,South,Florida,Technology,Phones,Smartphone,6,0.15,2992.68,-163.49
+ORD-00676,2026-04-12,CUST-0208,Emma Davis,Home Office,West,California,Office Supplies,Paper,Printer Paper Case,7,0.2,245.16,26.75
+ORD-00488,2026-04-16,CUST-0038,Ava Thompson,Small Business,South,North Carolina,Technology,Accessories,Wireless Mouse,3,0.1,106.21,8.69
+ORD-00559,2026-04-17,CUST-0042,Luna Johnson,Corporate,Central,Michigan,Furniture,Bookcases,Office Bookcase,2,0,427.72,88.14
+ORD-00820,2026-04-17,CUST-0063,Harper Harris,Consumer,Central,Illinois,Technology,Accessories,Wireless Keyboard,7,0.15,341.69,20.58
+ORD-00113,2026-04-18,CUST-0040,Olivia Miller,Home Office,Central,Ohio,Furniture,Bookcases,Office Bookcase,3,0,571.89,83.28
+ORD-00692,2026-04-18,CUST-0052,Olivia Jackson,Corporate,South,South Carolina,Office Supplies,Writing,Pen Set,1,0.05,16.64,4.47
+ORD-00893,2026-04-18,CUST-0195,Evelyn Martinez,Small Business,South,South Carolina,Office Supplies,Storage,File Storage Box,7,0,226.61,68.72
+ORD-00802,2026-04-20,CUST-0187,Evelyn Lewis,Corporate,Central,Illinois,Furniture,Desks,Standing Desk,7,0,3668.94,400.93
+ORD-00449,2026-04-21,CUST-0196,Jack Lewis,Small Business,Central,Michigan,Furniture,Bookcases,Office Bookcase,5,0,1144.88,167.87
+ORD-00475,2026-04-21,CUST-0134,Noah Smith,Small Business,Central,Illinois,Technology,Phones,Smartphone,3,0,2097.49,386.42
+ORD-00535,2026-04-21,CUST-0178,Henry Moore,Corporate,West,Colorado,Furniture,Bookcases,Office Bookcase,2,0.05,404.48,62.81
+ORD-00839,2026-04-22,CUST-0104,Amelia Miller,Consumer,East,New Jersey,Technology,Accessories,Wireless Keyboard,2,0.2,93.89,2.01
+ORD-00183,2026-04-23,CUST-0225,Noah Johnson,Home Office,West,Oregon,Office Supplies,Binders,Premium Binder Pack,4,0,96.42,26.7
+ORD-00333,2026-04-24,CUST-0163,Luna Davis,Home Office,West,Washington,Office Supplies,Storage,File Storage Box,4,0.15,105.67,4.87
+ORD-00453,2026-04-24,CUST-0153,Daniel Martinez,Consumer,South,Virginia,Furniture,Bookcases,Office Bookcase,7,0.15,1205.12,26.26
+ORD-00053,2026-04-25,CUST-0226,Harper Taylor,Home Office,West,Colorado,Office Supplies,Binders,Premium Binder Pack,5,0,133.2,35.67
+ORD-00330,2026-04-25,CUST-0159,Jack Garcia,Small Business,West,Arizona,Office Supplies,Paper,Printer Paper Case,1,0.2,31.59,2.4
+ORD-00432,2026-04-25,CUST-0098,Olivia Johnson,Small Business,West,Washington,Office Supplies,Storage,File Storage Box,2,0.1,60.68,13.38
+ORD-00695,2026-04-25,CUST-0037,Mason Thompson,Corporate,East,New Jersey,Technology,Accessories,Wireless Keyboard,1,0,48.55,11.16
+ORD-00888,2026-04-25,CUST-0112,Lucas Miller,Consumer,South,South Carolina,Technology,Laptops,Business Laptop,1,0,772.13,155.88
+ORD-00065,2026-04-26,CUST-0212,Luna Thomas,Home Office,East,Pennsylvania,Technology,Monitors,27-inch Monitor,3,0,752.73,160.75
+ORD-00454,2026-04-26,CUST-0143,Amelia Martinez,Consumer,South,Florida,Office Supplies,Storage,File Storage Box,1,0,32.64,9.67
+ORD-00229,2026-04-29,CUST-0221,Olivia Thompson,Consumer,West,California,Furniture,Bookcases,Office Bookcase,4,0,937.61,144.07
+ORD-00366,2026-04-29,CUST-0097,Amelia White,Consumer,South,Virginia,Furniture,Desks,Standing Desk,5,0.2,2247.06,-175.54
+ORD-00746,2026-04-29,CUST-0227,Amelia Clark,Small Business,East,New Jersey,Technology,Accessories,Wireless Keyboard,7,0,410.72,93.64
+ORD-00950,2026-04-29,CUST-0015,Noah Robinson,Home Office,South,Georgia,Furniture,Bookcases,Office Bookcase,7,0.2,1170.64,-60.08
+ORD-00960,2026-04-30,CUST-0021,Olivia Taylor,Home Office,Central,Illinois,Office Supplies,Binders,Premium Binder Pack,1,0.15,21.95,4.29
+ORD-00101,2026-05-01,CUST-0034,Daniel Johnson,Small Business,West,California,Technology,Phones,Smartphone,2,0,1295.59,198.92
+ORD-00973,2026-05-02,CUST-0188,Harper Martinez,Corporate,East,New York,Office Supplies,Storage,File Storage Box,1,0,29.92,8.42
+ORD-00025,2026-05-03,CUST-0171,Daniel Thomas,Consumer,Central,Illinois,Office Supplies,Storage,File Storage Box,5,0.1,164.97,24.61
+ORD-00006,2026-05-04,CUST-0240,Olivia Lewis,Corporate,Central,Michigan,Furniture,Desks,Standing Desk,6,0,3057.44,379.21
+ORD-00389,2026-05-04,CUST-0236,Olivia Garcia,Consumer,East,Pennsylvania,Technology,Accessories,Wireless Mouse,4,0.2,117.27,3.62
+ORD-00072,2026-05-11,CUST-0239,Mason Martinez,Small Business,West,California,Technology,Accessories,Wireless Mouse,2,0.05,75.52,11.66
+ORD-00301,2026-05-13,CUST-0028,Benjamin Brown,Small Business,South,Virginia,Furniture,Desks,Standing Desk,6,0.1,2961.83,30.57
+ORD-00697,2026-05-13,CUST-0202,Noah Jackson,Corporate,East,New York,Technology,Accessories,Wireless Keyboard,5,0,243.56,52.15
+ORD-00122,2026-05-14,CUST-0010,Isabella Lewis,Corporate,East,New York,Technology,Monitors,27-inch Monitor,2,0.1,548.42,60.01
+ORD-00954,2026-05-14,CUST-0157,Daniel Jackson,Consumer,Central,Michigan,Furniture,Desks,Standing Desk,4,0.05,1770.14,100.39
+ORD-00788,2026-05-15,CUST-0043,Luna Johnson,Consumer,Central,Michigan,Office Supplies,Paper,Printer Paper Case,2,0.15,64.36,8.97
+ORD-00344,2026-05-16,CUST-0040,Isabella Lewis,Consumer,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,5,0,1575.03,195.2
+ORD-00103,2026-05-17,CUST-0147,Lucas Martin,Consumer,East,New Jersey,Technology,Accessories,Wireless Mouse,2,0,77.58,20.84
+ORD-00930,2026-05-17,CUST-0237,Ethan Jackson,Consumer,Central,Texas,Technology,Laptops,Business Laptop,2,0.05,1754.06,276.2
+ORD-00300,2026-05-22,CUST-0212,Jack Harris,Consumer,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,6,0.05,129.69,34.62
+ORD-00321,2026-05-22,CUST-0245,Jack Anderson,Consumer,South,North Carolina,Technology,Laptops,Business Laptop,3,0.15,2286.16,162.15
+ORD-00623,2026-05-22,CUST-0245,Ava Davis,Small Business,West,California,Technology,Laptops,Business Laptop,4,0,3348.65,663.85
+ORD-00515,2026-05-23,CUST-0052,Ethan Robinson,Consumer,South,Georgia,Office Supplies,Writing,Pen Set,6,0,119.57,36.6
+ORD-00710,2026-05-23,CUST-0189,Emma Garcia,Small Business,East,New Jersey,Office Supplies,Storage,File Storage Box,1,0,29.36,7.56
+ORD-00851,2026-05-24,CUST-0120,Harper Robinson,Home Office,East,Maryland,Office Supplies,Binders,Premium Binder Pack,2,0,47.27,12.69
+ORD-00609,2026-05-26,CUST-0049,Henry Miller,Home Office,West,Washington,Office Supplies,Binders,Premium Binder Pack,4,0.1,81.06,15.88
+ORD-00768,2026-05-26,CUST-0207,Liam Thomas,Home Office,Central,Illinois,Furniture,Bookcases,Office Bookcase,7,0,1345.55,245.21
+ORD-00779,2026-05-26,CUST-0033,Jack Martin,Consumer,East,Pennsylvania,Technology,Monitors,27-inch Monitor,4,0,1167.69,224.57
+ORD-00906,2026-05-26,CUST-0148,Henry White,Corporate,South,South Carolina,Office Supplies,Binders,Premium Binder Pack,4,0.15,93.71,10.37
+ORD-00573,2026-05-27,CUST-0004,Benjamin Davis,Home Office,Central,Michigan,Technology,Accessories,Wireless Mouse,2,0.2,61.41,-2.43
+ORD-00188,2026-05-28,CUST-0107,Daniel Martinez,Corporate,East,Pennsylvania,Technology,Monitors,27-inch Monitor,3,0.2,675.37,20.41
+ORD-00505,2026-05-28,CUST-0150,Amelia Thompson,Corporate,West,Oregon,Furniture,Desks,Standing Desk,5,0,2477.77,304.72
+ORD-00031,2026-05-29,CUST-0211,Lucas Taylor,Consumer,South,Florida,Technology,Laptops,Business Laptop,8,0,6350.42,1088.9
+ORD-00986,2026-05-30,CUST-0056,Daniel Taylor,Consumer,East,Maryland,Office Supplies,Binders,Premium Binder Pack,4,0,105.25,30.51
+ORD-00703,2026-06-02,CUST-0041,James Anderson,Consumer,East,Pennsylvania,Office Supplies,Storage,File Storage Box,4,0.05,114.18,24.11
+ORD-00020,2026-06-04,CUST-0238,Harper Thomas,Home Office,West,Colorado,Technology,Accessories,Wireless Mouse,7,0,226.49,53.26
+ORD-00084,2026-06-04,CUST-0199,Lucas Lewis,Small Business,Central,Texas,Furniture,Chairs,Ergonomic Office Chair,1,0.1,316.25,19.38
+ORD-00095,2026-06-06,CUST-0083,Emma Miller,Small Business,East,New York,Furniture,Desks,Standing Desk,1,0,459.69,55.81
+ORD-00232,2026-06-06,CUST-0213,Lucas Harris,Home Office,West,California,Technology,Monitors,27-inch Monitor,3,0.15,795.28,64.86
+ORD-00433,2026-06-07,CUST-0238,Emma Harris,Consumer,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,2,0.2,41.78,3.62
+ORD-00342,2026-06-08,CUST-0095,Luna Robinson,Corporate,Central,Illinois,Furniture,Chairs,Ergonomic Office Chair,8,0.2,1957.07,-121.72
+ORD-00081,2026-06-10,CUST-0060,Harper Anderson,Home Office,East,New York,Furniture,Chairs,Ergonomic Office Chair,7,0.1,2179.45,114.69
+ORD-00306,2026-06-11,CUST-0076,Harper Davis,Home Office,Central,Illinois,Furniture,Bookcases,Office Bookcase,5,0.05,1090.05,112.83
+ORD-00736,2026-06-12,CUST-0223,Benjamin Brown,Corporate,East,Pennsylvania,Furniture,Chairs,Ergonomic Office Chair,7,0.1,1979.61,7.92
+ORD-00102,2026-06-13,CUST-0080,James Davis,Corporate,South,Florida,Office Supplies,Paper,Printer Paper Case,7,0.2,265.14,26.44
+ORD-00605,2026-06-13,CUST-0073,Mia Brown,Home Office,Central,Michigan,Office Supplies,Storage,File Storage Box,3,0,88.98,23.09
+ORD-00537,2026-06-14,CUST-0163,Emma Brown,Home Office,West,Colorado,Technology,Accessories,Wireless Keyboard,7,0,420.91,93.35
+ORD-00606,2026-06-16,CUST-0237,Daniel Lewis,Corporate,Central,Illinois,Office Supplies,Binders,Premium Binder Pack,7,0.2,150.36,23.82
+ORD-00254,2026-06-17,CUST-0142,Harper Smith,Small Business,South,Florida,Technology,Phones,Smartphone,8,0.2,3977.89,-445.22
+ORD-00291,2026-06-17,CUST-0010,Ethan Anderson,Home Office,Central,Tennessee,Office Supplies,Paper,Printer Paper Case,7,0,289.13,85.24
+ORD-00683,2026-06-20,CUST-0235,Lucas Moore,Corporate,East,Massachusetts,Technology,Phones,Smartphone,1,0.15,519.86,12.55
+ORD-00030,2026-06-21,CUST-0106,Lucas Anderson,Corporate,East,Pennsylvania,Technology,Accessories,Wireless Keyboard,7,0,357.44,89.51
+ORD-00791,2026-06-22,CUST-0244,Liam Martin,Home Office,West,Washington,Furniture,Desks,Standing Desk,4,0,1872.59,273.83
+ORD-00925,2026-06-22,CUST-0221,Evelyn Moore,Small Business,Central,Illinois,Office Supplies,Storage,File Storage Box,8,0,225.91,62.14
+ORD-00467,2026-06-23,CUST-0120,Noah Moore,Home Office,West,Colorado,Technology,Accessories,Wireless Keyboard,4,0.15,179.23,9.54
+ORD-00011,2026-06-25,CUST-0117,Emma Anderson,Corporate,South,North Carolina,Furniture,Desks,Standing Desk,5,0.2,2190.36,-75.04
+ORD-00277,2026-06-25,CUST-0115,Emma Anderson,Corporate,Central,Illinois,Furniture,Desks,Standing Desk,2,0.2,891.42,-50.72
+ORD-00285,2026-06-25,CUST-0068,Lucas Anderson,Consumer,West,Washington,Office Supplies,Paper,Printer Paper Case,7,0,273.53,76.47
+ORD-00648,2026-06-26,CUST-0072,Evelyn Lewis,Corporate,Central,Michigan,Office Supplies,Binders,Premium Binder Pack,5,0.15,110.21,6.49
+ORD-00026,2026-06-30,CUST-0184,Isabella Moore,Small Business,East,Massachusetts,Technology,Phones,Smartphone,2,0.15,1137.45,34.04
+ORD-00651,2026-06-30,CUST-0130,Noah Johnson,Small Business,East,New York,Technology,Laptops,Business Laptop,5,0,4694.98,835.93
+ORD-00041,2026-07-02,CUST-0221,Benjamin Thompson,Small Business,West,Oregon,Furniture,Bookcases,Office Bookcase,7,0.2,1322.82,-91.52
+ORD-00534,2026-07-02,CUST-0121,Evelyn Johnson,Home Office,West,Oregon,Technology,Accessories,Wireless Mouse,3,0.1,106.08,10.49
+ORD-00823,2026-07-02,CUST-0015,Daniel Anderson,Consumer,East,New Jersey,Furniture,Chairs,Ergonomic Office Chair,8,0.2,1922.02,-145.89
+ORD-00281,2026-07-03,CUST-0228,Henry Miller,Consumer,Central,Tennessee,Furniture,Chairs,Ergonomic Office Chair,8,0.15,1963.29,-157.0
+ORD-00913,2026-07-03,CUST-0225,Isabella Clark,Corporate,West,Colorado,Technology,Phones,Smartphone,5,0,3383.9,538.8
+ORD-00896,2026-07-04,CUST-0091,Sophia Davis,Consumer,South,South Carolina,Technology,Laptops,Business Laptop,8,0,6473.77,1215.64
+ORD-00675,2026-07-05,CUST-0167,Olivia Robinson,Consumer,East,New Jersey,Office Supplies,Writing,Pen Set,8,0.2,113.59,21.49
+ORD-00856,2026-07-05,CUST-0242,Henry Garcia,Home Office,East,New York,Technology,Phones,Smartphone,7,0,5187.49,715.22
+ORD-00775,2026-07-08,CUST-0115,Isabella Davis,Consumer,South,South Carolina,Furniture,Desks,Standing Desk,2,0,1157.25,116.28
+ORD-00460,2026-07-09,CUST-0128,Benjamin Robinson,Consumer,Central,Illinois,Technology,Phones,Smartphone,3,0,1717.86,208.03
+ORD-00917,2026-07-10,CUST-0002,Harper Martinez,Home Office,East,Maryland,Office Supplies,Writing,Pen Set,5,0,97.55,30.85
+ORD-00082,2026-07-11,CUST-0151,Mason Martin,Small Business,Central,Texas,Office Supplies,Storage,File Storage Box,5,0.15,139.75,26.33
+ORD-00201,2026-07-11,CUST-0231,Daniel Clark,Consumer,South,South Carolina,Technology,Accessories,Wireless Mouse,8,0,249.92,70.8
+ORD-00149,2026-07-12,CUST-0021,Liam Clark,Small Business,East,Maryland,Furniture,Bookcases,Office Bookcase,6,0.2,1138.5,48.72
+ORD-00313,2026-07-12,CUST-0208,Amelia Smith,Corporate,West,Washington,Office Supplies,Paper,Printer Paper Case,8,0,363.73,116.98
+ORD-00373,2026-07-12,CUST-0169,Ava Lewis,Consumer,South,South Carolina,Office Supplies,Storage,File Storage Box,1,0.2,26.2,-0.31
+ORD-00615,2026-07-13,CUST-0112,Ethan Jackson,Home Office,Central,Michigan,Technology,Monitors,27-inch Monitor,5,0.1,1391.03,98.66
+ORD-00356,2026-07-16,CUST-0030,Ethan Clark,Consumer,Central,Illinois,Office Supplies,Binders,Premium Binder Pack,3,0,66.94,18.93
+ORD-00901,2026-07-18,CUST-0081,Olivia Miller,Corporate,South,South Carolina,Office Supplies,Writing,Pen Set,8,0.15,117.8,11.77
+ORD-00601,2026-07-20,CUST-0077,Mia Miller,Home Office,West,Colorado,Technology,Laptops,Business Laptop,7,0,5719.38,1190.2
+ORD-00147,2026-07-21,CUST-0083,Lucas White,Small Business,East,New Jersey,Office Supplies,Writing,Pen Set,1,0.2,13.15,1.53
+ORD-00778,2026-07-21,CUST-0210,Liam Taylor,Consumer,West,Arizona,Office Supplies,Writing,Pen Set,6,0.1,99.66,19.57
+ORD-00732,2026-07-22,CUST-0181,Emma Taylor,Consumer,Central,Texas,Furniture,Chairs,Ergonomic Office Chair,8,0.05,2514.4,233.97
+ORD-00750,2026-07-23,CUST-0032,Sophia Brown,Small Business,West,Colorado,Furniture,Desks,Standing Desk,2,0.2,875.13,-54.14
+ORD-00857,2026-07-23,CUST-0020,Luna Lewis,Corporate,East,New Jersey,Office Supplies,Paper,Printer Paper Case,7,0.2,207.61,8.26
+ORD-00289,2026-07-25,CUST-0071,Evelyn Thompson,Consumer,Central,Ohio,Furniture,Bookcases,Office Bookcase,2,0,413.61,65.91
+ORD-00849,2026-07-28,CUST-0096,Olivia Martin,Home Office,West,Colorado,Furniture,Chairs,Ergonomic Office Chair,3,0.05,906.82,118.19
+ORD-00989,2026-07-30,CUST-0156,Mason Jackson,Home Office,South,Virginia,Furniture,Chairs,Ergonomic Office Chair,3,0,1051.72,134.08
+ORD-00563,2026-08-01,CUST-0204,Daniel Lewis,Consumer,West,Colorado,Office Supplies,Paper,Printer Paper Case,3,0,118.29,37.24
